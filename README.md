@@ -1,6 +1,6 @@
-## Welcome to SignPresenter Support
+## SignPresenter Support
 
 
 ### Getting Started
 
-- [Create Your First Message](/topics/gettingstarted)
+- [Create Your First Message](topics/GettingStarted.md)
