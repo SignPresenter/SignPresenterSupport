@@ -1,3 +1,12 @@
+---
+---
+
 @import "{{ site.theme }}";
 
+
 .site-footer {display: none;}
+
+@media screen and (min-width: 64em)
+{
+  .page-header {padding:2rem 6rem;}
+}
