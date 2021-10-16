@@ -1,7 +1,7 @@
 ## Create Your First Message
 You just created your account and you want to get some messages on your screen. This guide will help you get started.
 
-[![Setup Instructions](https://img.youtube.com/vi/uF-sYLnj5pk/0.jpg)](https://www.youtube.com/watch?v=uF-sYLnj5pk)
+[![Setup Instructions](https://img.youtube.com/vi/kCQklFYElE4/0.jpg)](https://www.youtube.com/watch?v=kCQklFYElE4)
 
 ### Messages
 A piece of content that is displayed on your screen is called a "Message". Start by clicking on the Messages tab and you will see your library of messages that can be displayed. To create a new message that shows an image.
