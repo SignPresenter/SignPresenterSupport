@@ -9,3 +9,4 @@
 - [Add multiple Campuses / Departments within one account](topics/Departments.md)
 - [Make Your Own Digital Menus](topics/digital-menus.md)
 - [Screen Mode Differences](topics/screen-mode-differences.md)
+- [Useing Sign-Presenter with a sound board or with different speakers](topics/signpresenter-withyoursoundboard.md)
