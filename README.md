@@ -10,3 +10,4 @@
 - [Make Your Own Digital Menus](topics/digital-menus.md)
 - [Screen Mode Differences](topics/screen-mode-differences.md)
 - [Useing Sign-Presenter with a sound board or with different speakers](topics/signpresenter-withyoursoundboard.md)
+- [Add google calendar to a Playlist](topics/add-google-calendar.md)
