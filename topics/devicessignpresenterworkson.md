@@ -5,10 +5,17 @@ The Lite means you will not be able to control the tv volume or power that you h
 If you want to buy a tv with the Amazon Fire-stick built in it you can buy the tvs listed below and SignPresenter will work seamlessly. 
 
 Any Fire-TV built after 2020 will work the below links are examples of tvs that work.
+
 [Insignia NS-50DF710NA19 50-inch](https://amzn.to/3j7FxbN)
+
 [HD Smart LED TV HDR - Fire TV Edition ](https://amzn.to/3lPhnEP)
+
 [Toshiba 32LF221U19 32-inch 720p ](https://amzn.to/3vn1Pew)
+
 [INSIGNIA NS-50DF710NA21 50-inch Smart 4K](https://amzn.to/3FUYLv4)
+
 [Toshiba 50-inch 50C350KU C350 Series LED 4K](https://amzn.to/3aQXjLS)
+
 [Insignia F30 Series 4K UHD](https://amzn.to/3DQAdSo)
+
 [Insignia NS-65DF710NA21 Smart 4K UHD](https://amzn.to/3DU1Yth)
