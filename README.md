@@ -4,6 +4,7 @@
 ### Getting Started
 
 - [Create your first message](topics/getting-started.md)
+- [What TV or hardware you need to run SignPresenter](topics/devicessignpresenterworkson.md)
 
 ### Accounts, Departments, and Screens
 - [Add multiple campuses / departments within one account](topics/departments.md)
