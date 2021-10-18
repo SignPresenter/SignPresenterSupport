@@ -19,3 +19,6 @@
 - [Make your own digital menus](topics/digital-menus.md)
 - [Connect Lessons.church](topics/lessons-dot-church.md)
 - [Uploading Videos to your account](topics/uploadvideos.md)
+
+### Common Qustions
+[I Can't preview videos On Signpresenter.com??](topics/cantpreview.md)
