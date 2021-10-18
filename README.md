@@ -20,5 +20,6 @@
 - [Connect Lessons.church](topics/lessons-dot-church.md)
 - [Uploading Videos to your account](topics/uploadvideos.md)
 
-### Common Qustions
-[I Can't preview videos On Signpresenter.com??](topics/cantpreview.md)
+### Common Problems
+- [I Can't preview videos On Signpresenter.com](topics/cantpreview.md)
+- [I Can't find the app on the google play store, Apple Tv or Roku](topics/other-platforms.md)
