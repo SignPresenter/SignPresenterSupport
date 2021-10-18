@@ -18,3 +18,4 @@
 - [Add google calendar to a playlist](topics/add-google-calendar.md)
 - [Make your own digital menus](topics/digital-menus.md)
 - [Connect Lessons.church](topics/lessons-dot-church.md)
+- [Uploading Videos to your account](topics/uploadvideos.md)
