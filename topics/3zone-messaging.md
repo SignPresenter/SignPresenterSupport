@@ -7,5 +7,7 @@
 ## Dimminsions for differnt types of messages. 
 
 16:9/ 1920 x 1080
+
 9:16/ 1080 X 1920
+
 4:1 / 1280 X 320
