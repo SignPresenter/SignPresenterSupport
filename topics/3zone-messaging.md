@@ -1,6 +1,6 @@
 ## Build your own 3 Zone display in landscape or horizontal mode with SignPresenter
 
-3 Zone Templates are great for professional looking digtal sinage this quick tutorial shows you how easy it is to accomplish with sign presenter.
+3 Zone Templates are great for professional looking digtal sinage this quick tutorial shows you how easy it is to accomplish with sign presenter. The video below shows how easy they are to create in SignPresenter.
 
 [![Connect Lessons.Church to Sign Presenter](https://img.youtube.com/vi/_KubI7zqSWU/0.jpg)](https://www.youtube.com/watch?v=_KubI7zqSWU)
 
