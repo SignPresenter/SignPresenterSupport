@@ -4,8 +4,8 @@
 
 [![Connect Lessons.Church to Sign Presenter](https://img.youtube.com/vi/_KubI7zqSWU/0.jpg)](https://www.youtube.com/watch?v=_KubI7zqSWU)
 
-Dimminsions for differnt types of messages. 
+## Dimminsions for differnt types of messages. 
 
-# 16:9/ 1920 x 1080
-# 9:16/ 1080 X 1920
-# 4:1 / 1280 X 320
+16:9/ 1920 x 1080
+9:16/ 1080 X 1920
+4:1 / 1280 X 320
