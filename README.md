@@ -19,6 +19,7 @@
 - [Make your own digital menus](topics/digital-menus.md)
 - [Connect Lessons.church](topics/lessons-dot-church.md)
 - [Uploading Videos to your account](topics/uploadvideos.md)
+- [3 Zone Messages](topics/3zone-messaging.md)
 
 ### Common Problems
 - [I Can't preview videos On Signpresenter.com](topics/cantpreview.md)
