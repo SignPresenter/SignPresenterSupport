@@ -21,6 +21,7 @@
 - [Connect Lessons.church](topics/lessons-dot-church.md)
 - [Uploading Videos to your account](topics/uploadvideos.md)
 - [3 Zone Messages](topics/3zone-messaging.md)
+- [Calander feed Building Dierctory Setup](topics/directory-and-sinage.md)
 
 ### Common Problems
 - [I Can't preview videos On Signpresenter.com](topics/cantpreview.md)
