@@ -17,8 +17,12 @@
 <body>
   <a id="skip-to-content" href="#content">Skip to the content.</a>
   <header class="page-header" role="banner">
-    <h1 class="project-name">SignPresenter Support</h1>
-    <h2 class="project-tagline">{{ page.title | default: site.title | default: site.github.repository_name }}</h2>
+    <table>
+      <tr>
+        <td><img src="https://signpresenter.com/images/logo.png" style="padding-top:0px;padding-bottom:0px;"></td>
+        <td><h2 class="project-tagline">{{ page.title | default: site.title | default: site.github.repository_name }}</h2></td>
+      </tr>
+    </table>
   </header>
 
   <main id="content" class="main-content" role="main">
