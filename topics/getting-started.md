@@ -1,6 +1,6 @@
 ## Create Your First Message
 You just created your account and you want to get some messages on your screen. This guide will help you get started.
-#Useing the [Google Chrome](https://www.google.com/chrome/) browser is highly recomended.
+# Useing the [Google Chrome](https://www.google.com/chrome/) browser is highly recomended.
 
 [![Setup Instructions](https://img.youtube.com/vi/u9teKOKF9GA/0.jpg)](https://www.youtube.com/watch?v=u9teKOKF9GA)
 
