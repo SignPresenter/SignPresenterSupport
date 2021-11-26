@@ -8,7 +8,7 @@
 - [Vertical screen setup](topics/verticalsetup.md)
 
 ### Accounts, Departments, and Screens
-- [Add multiple campuses / departments within one account](topics/departments.md)
+- [Add multiple campuses / departments within one account](topics/Departments.md)
 - [Screen mode differences](topics/screen-mode-differences.md)
 
 ### Firestick Setup
