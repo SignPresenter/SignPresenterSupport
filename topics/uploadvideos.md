@@ -13,7 +13,7 @@ Once the video is under 1GB.
 ![Screen Shot 2021-12-08 at 6 34 24 AM](https://user-images.githubusercontent.com/65249159/145209728-2289d10e-7348-4f15-9c87-1aeb92a9de06.png)
 
 7. Once Uploaded you will see this message at this point you can leave the page and come back later to make sure the processing 
-completed suscfully.
+completed successfully.
 ![Screen Shot 2021-12-08 at 6 34 38 AM](https://user-images.githubusercontent.com/65249159/145209905-efad06d9-3739-4084-b01a-14a4408cbf6b.png)
 
 ## What if the Video fails to process? 
