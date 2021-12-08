@@ -18,5 +18,5 @@ Once the video is under 1GB.
 ## What if the Videofails to process? 
 We work hard to make sure we can process eveery codec but sometimes videos fail to process. If this happens to you please use [HandBrake](https://handbrake.fr/) to convert the video) This will change the codec and when you re-upload the video it should finsh processing correctly. 
 
-Of course if you are still having issue contact [Support](mailto:support@signpresenter.com?subject=[Failed]%20Source%20Han%20Sans) and if possible send the video you are trying to upload useing email or dropbox/google drive and we will analize the video and do our best to get the issue resolved.
+Of course if you are still having issue contact [Support]<mailto:support@signpresenter.com> and if possible send the video you are trying to upload useing email or dropbox/google drive and we will analize the video and do our best to get the issue resolved.
 
