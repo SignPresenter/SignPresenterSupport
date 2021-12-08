@@ -1,3 +1,4 @@
+## Uploading Videos to your account
 Make sure the videos are under 1GB (If they are over 1GB we recommend [HandBrake](https://handbrake.fr/) to compress the video) 
 Once the video is under 1GB go to messages on SignPresenter click Horizontal or Vertical choose video with audio or without audio, type 
 in your Category then type in the Name for the video. Then click Upload a video find the video on your computer and select it. 
