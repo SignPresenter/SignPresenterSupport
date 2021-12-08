@@ -15,7 +15,7 @@ Once the video is under 1GB.
 7. Once Uploaded you will see this message at this point you can leave the page and come back later to make sure the processing completed suscfully.
 ![Screen Shot 2021-12-08 at 6 34 38 AM](https://user-images.githubusercontent.com/65249159/145209905-efad06d9-3739-4084-b01a-14a4408cbf6b.png)
 
-## What if the Videofails to process? 
+## What if the Video fails to process? 
 We work hard to make sure we can process eveery codec but sometimes videos fail to process. If this happens to you please use [HandBrake](https://handbrake.fr/) to convert the video) This will change the codec and when you re-upload the video it should finsh processing correctly. 
 
 Of course if you are still having issue contact [Support](mailto:support@signpresenter.com?subject=[SPSUPPORT]%20Video%20Process%20Broken) and if possible send the video you are trying to upload useing email or dropbox/google drive and we will analize the video and do our best to get the issue resolved.
