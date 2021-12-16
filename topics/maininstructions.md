@@ -16,7 +16,7 @@ A piece of content that is displayed on your screen is called a "Message". Start
 6. If desired used the cropper tool to select the portion of the image you wish to display and click Update.
 7. Click Save
 
-## Note: Creating a message simply adds it to the library, it has not been added to your screen yet.
+# Note: Creating a message simply adds it to the library, it has not been added to your screen yet.
 
 ## Playlists
 A playlist is a collection of messages. A playlist called 'Custom Playlist' is created automatically and contains the weather message. Add your new message to it. You can create additional playlists if you want to show different content at different times.
