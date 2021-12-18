@@ -23,11 +23,13 @@ A playlist is a collection of messages. A playlist called 'Custom Playlist' is c
 
 The custom playlist is already scheduled to run on your screen so at this point you can preview your screen by going to the Screens tab and clicking the preview link. Once it looks good, you are ready to purchase a player and connect it to your TV. See the installation instructions below.
 
-## Installation Instructions![firestick](https://user-images.githubusercontent.com/65249159/146643451-bdb9e2df-f510-408f-ba02-739a7067d79a.png)
+## Installation Instructions
 
 
 Once you have created a Sign Presenter account and configured your screen(s) the next step is to connect a player. You will need an [Amazon Fire Stick](https://amzn.to/3letCr1). This is what you will plug into your TV to run the digital signage software. You can find these at most Best Buy and Target stores or online at [Amazon.com](https://amzn.to/3letCr1). See [this article](https://support.signpresenter.com/topics/devicessignpresenterworkson.html) on our support page to find the best Amazon Firestick for your needs.
-![Uploading firestick.png…]()
+
+![firestick](https://user-images.githubusercontent.com/65249159/146643481-49b78c31-34a1-44b0-b9b8-f38394ad0f6e.png)
+
 
 After you've obtained your Fire Stick, simply plug it into your TV and enter your WiFi information. You will be asked to log into an Amazon account or create a new one as part of the setup process. There will also likely be some software updates available after you connect the device for the first time. We recommend you download these updates before installing the Sign Presenter app.
 
