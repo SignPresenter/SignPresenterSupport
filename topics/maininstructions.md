@@ -25,3 +25,15 @@ The custom playlist is already scheduled to run on your screen so at this point 
 
 ## Installation Instructions
 
+Once you have created a Sign Presenter account and configured your screen(s) the next step is to connect a player. You will need an [Amazon Fire Stick](https://amzn.to/3letCr1). This is what you will plug into your TV to run the digital signage software. You can find these at most Best Buy and Target stores or online at [Amazon.com](https://amzn.to/3letCr1). See [this article](https://support.signpresenter.com/topics/devicessignpresenterworkson.html) on our support page to find the best Amazon Firestick for your needs.
+
+After you've obtained your Fire Stick, simply plug it into your TV and enter your WiFi information. You will be asked to log into an Amazon account or create a new one as part of the setup process. There will also likely be some software updates available after you connect the device for the first time. We recommend you download these updates before installing the Sign Presenter app.
+
+There are two ways to install the Sign Presenter application on the Fire Stick. The first is from the device itself, click the "Search" icon in the top left corner and type in "Sign Presenter". No results will be shown initially. You must click the down button on the remote and then click the Select button with the "Sign Presenter" text highlighted. Once you do so, you should see the app. The video below demonstrates this method.
+
+The second way is from your browser. Go to the [Sign Presenter app page](https://www.amazon.com/Sign-Presenter/dp/B07V4GF4SZ/) in the Amazon app store. Select the device you wish to deliver the app to and click the deliver link. It should show up on your player home screen a few minutes later.
+
+If you need any assistance, please don't hesitate to contact us: support@signpresenter.com · 918-994-2638
+
+
+[![Setting up SignPresenter on your Fire Stick](https://img.youtube.com/vi/wQsvcwOqzJI/0.jpg)](https://www.youtube.com/watch?v=wQsvcwOqzJI)
