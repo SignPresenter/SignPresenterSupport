@@ -4,7 +4,7 @@ You just created your account and you want to get some messages on your screen. 
 
 [![Sign Presenter Initial Setup Instructions](https://img.youtube.com/vi/u9teKOKF9GA/0.jpg)](https://www.youtube.com/watch?v=u9teKOKF9GA)
 
-## Messages
+## #1 Messages
 
 A piece of content that is displayed on your screen is called a "Message". Start by clicking on the Messages tab and you will see your library of messages that can be displayed. To create a new message that shows an image.
 
@@ -16,14 +16,14 @@ A piece of content that is displayed on your screen is called a "Message". Start
 6. If desired used the cropper tool to select the portion of the image you wish to display and click Update.
 7. Click Save
 
-# Note: Creating a message simply adds it to the library, it has not been added to your screen yet.
+### Note: Creating a message simply adds it to the library, it has not been added to your screen yet.
 
-## Playlists
+## #2 Playlists
 A playlist is a collection of messages. A playlist called 'Custom Playlist' is created automatically and contains the weather message. Add your new message to it. You can create additional playlists if you want to show different content at different times.
 
 The custom playlist is already scheduled to run on your screen so at this point you can preview your screen by going to the Screens tab and clicking the preview link. Once it looks good, you are ready to purchase a player and connect it to your TV. See the installation instructions below.
 
-## Installation Instructions on the Tv itself
+## #3 Installation Instructions on the Tv itself
 
 
 Once you have created a Sign Presenter account and configured your screen(s) the next step is to connect a player. You will need an [Amazon Fire Stick](https://amzn.to/3letCr1). This is what you will plug into your TV to run the digital signage software. You can find these at most Best Buy and Target stores or online at [Amazon.com](https://amzn.to/3letCr1). See [this article](https://support.signpresenter.com/topics/devicessignpresenterworkson.html) on our support page to find the best Amazon Firestick for your needs.
