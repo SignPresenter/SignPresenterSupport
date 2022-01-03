@@ -2,4 +2,4 @@
 
 Have Multiple locations in your business or church? Sign Presenter makes it easy to add new accounts users and share slides across all those accounts. 
 
-[![Add multiple Campuses / Departments within one account](https://img.youtube.com/vi/e6YDYHp5PiY/0.jpg)](https://www.youtube.com/watch?v=e6YDYHp5PiY)
+[![Add multiple Campuses / Departments within one account](https://img.youtube.com/vi/cK-DXxg7X0E/0.jpg)](https://www.youtube.com/watch?v=cK-DXxg7X0E)
