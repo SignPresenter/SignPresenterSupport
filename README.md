@@ -22,7 +22,7 @@
 - [Connect Lessons.church](topics/lessons-dot-church.md)
 - [Uploading Videos to your account](topics/uploadvideos.md)
 - [3 Zone Messages](topics/3zone-messaging.md)
-- [Calander feed Building Dierctory Setup](topics/directory-and-sinage.md)
+- [Setting up Calendar feeds for digital signage automation](topics/directory-and-sinage.md)
 - [Show Website Message](topics/showwebsite.md)
 - [PowerPoint Or Keynote](topics/slideshows-function.md)
 
