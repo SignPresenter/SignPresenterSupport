@@ -29,6 +29,7 @@ Have Multiple locations in your business or church? Sign Presenter makes it easy
 12. From the main account, create a playlist and select the messages you’d like to display in your playlist and select save.
 13. Select the check box next to Show in all departments and return to the messages by selecting Step 1: Messages
 14. Select the new playlist created from the Messages screen and check the box next to show in all departments
+
 15. **Return to the new department**
 - Now that all messages you’d like to share with all departments are set return to the new department page. Please note: The new user will not be able to see the shared playlist under the Step 2: Playlist screen as the new user is restricted from making any changes.
 - To get to the shared messages, the new user will need to select Step 1: Messages, select the screen that was just created and select Both from the dropdown list under Mode.
