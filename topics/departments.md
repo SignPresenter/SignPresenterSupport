@@ -8,7 +8,7 @@ Have Multiple locations in your business or church? Sign Presenter makes it easy
 1. Under the Step 1: Message Tab, select Horizontal 16:9
 2. Select “Pointer” from All Message Templates
 3. Enter a Category and Name for your new Pointer message and choose the target message you would like to use.
-4. You can edit the new message by selecting it from the left-hand side of your screen. You’ll see, at this time, it cannot be shared.##
+4. You can edit the new message by selecting it from the left-hand side of your screen. You’ll see, at this time, it cannot be shared.
 5. **Create a New Department**
 - Select Settings
 - On the right-hand side of the screen, in the Departments box, select New and name your new department to your desired name choice.
