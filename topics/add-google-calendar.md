@@ -5,6 +5,7 @@ A simple way to add your Google calendar to Sign-Presenter is to make the calend
 
 [![Add google calendar to a Playlist](https://img.youtube.com/vi/fDyZ9nRuojU/0.jpg)](https://www.youtube.com/watch?v=fDyZ9nRuojU)
 
+### Use Google Calendar with SignPresenter
 1. Upcoming Calendar overview shows dates for the entire month. The information is pulled directly from Google Calendar.
 5. To use Google Calendar with SignPresenter
 - Pull up Google Calendar by searching Google Calendar in Google and open Google Calendar to create a calendar.
