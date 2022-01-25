@@ -7,6 +7,7 @@
 - [Create your first message](topics/getting-started.md)
 - [What TV or hardware you need to run SignPresenter](topics/devicessignpresenterworkson.md)
 - [Vertical screen setup](topics/verticalsetup.md)
+- [Update billing information](topics/payment.md)
 
 ### Accounts, Departments, and Screens
 - [Add multiple campuses / departments within one account](topics/departments.md)
