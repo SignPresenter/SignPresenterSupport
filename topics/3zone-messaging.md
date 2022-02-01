@@ -12,4 +12,4 @@
 
 4:1 / 1280 X 320
 
-** How to Build a Three Zone Display **
+## How to Build a Three Zone Display ##
