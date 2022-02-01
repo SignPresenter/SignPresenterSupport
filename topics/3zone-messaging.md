@@ -11,3 +11,5 @@
 9:16/ 1080 X 1920
 
 4:1 / 1280 X 320
+
+** How to Build a Three Zone Display **
