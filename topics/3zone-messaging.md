@@ -37,5 +37,5 @@
 	-	Assign the template a category and a name. Three Zone allows multiple ratios: 16:9, 9:16, 4:1. Vertical images can be displayed to the left or the right, and horizontal images can be at the top or the bottom.
 	-	Select the ratio and select +New to add a new playlist or message under the assigned ratio and click Update until all three ratios have an assigned playlist or message.
 
-### Vertical Three Zone images can be added by following the same steps after choosing the vertical option from the main Message tab. ###
+# Vertical Three Zone images can be added by following the same steps after choosing the vertical option from the main Message tab.
 
