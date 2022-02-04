@@ -12,5 +12,5 @@ Upcoming Calendar overview shows dates for the entire month. The information is 
 - Set up your calendar by choosing a name, time of the event, and under location, choose the appropriate room labeled in SignPresenter to keep them synchronized.
 - Under My Calendars, select the three-dot menu by hovering the mouse to the right of your calendar name. Select Settings and Sharing and check the box under Access permissions for events as Make available to the public and select OK.
 - Scroll down the settings, select the Public address in iCal format, and copy the listed address.
-- Return to SignPresenter and paste the address you copied into the ICS URL The path to the iCal ICS with calendar data) and select save. The calendar will then be updated into the Upcoming Calendar Overview.
+- Return to SignPresenter and paste the address you copied into the ICS URL (The path to the iCal ICS with calendar data) and select save. The calendar will then be updated into the Upcoming Calendar Overview.
 - Any changes made in your Google Calendar, SignPresenter will automatically sync to update.
