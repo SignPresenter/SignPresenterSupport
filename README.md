@@ -33,3 +33,4 @@
 - [I Can't preview videos On Signpresenter.com](topics/cantpreview.md)
 - [I Can't find the app on the google play store, Apple Tv or Roku](topics/other-platforms.md)
 - [Useing SignPresenter Outside of the USA](topics/anycountry.md)
+- [How to clear your Cache](topics/clear-cache.md)
