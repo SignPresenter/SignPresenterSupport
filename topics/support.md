@@ -10,7 +10,7 @@
 - **Click on New**
 ![Screen Shot 2022-02-09 at 6 33 32 AM](https://user-images.githubusercontent.com/65249159/153203127-7b4f0907-4486-430a-b1aa-0aa5dc96b4cd.png)
 
-- **Type what the issue is in the Comments then clcik Post**
+- **Type what the issue is in the Comments then click Post**
 ![Screen Shot 2022-02-09 at 6 33 56 AM](https://user-images.githubusercontent.com/65249159/153203639-e10e6ff1-3307-42da-8641-922d362b1f20.png)
 
 - **If you forgot something or need to upload a file for us to look at click on the ticket you just made.**
