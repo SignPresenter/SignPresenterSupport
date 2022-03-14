@@ -1,4 +1,4 @@
-## Difference In Screen Modes Digital Signage, Slideshows or Both??
+## Difference In Screen Modes - Digital Signage, Slideshows or Both??
 
 Digital Signage or Slideshow? Which one is best for what? In this short video, we explain how to use each and how each mode is most useful.
 
