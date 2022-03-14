@@ -1,8 +1,9 @@
 ## Using SignPresenter with a sound board or with different speakers
 
-We have found the best way to do this is to split it out with the device listed below. It is super simple setup and only cost $16 once you have it plugged in you 
-will need set your fire-stick for stereo only sound here is a quick video on how to do that. Watch the following video to learn how to use SignPresenter with your 
-current sound system.
+We have found the best way to do this is to split it out with the device listed below. It is super simple setup and only cost $16. Once you have it plugged in, you 
+will need set your firestick for stereo only sound. Here is a quick video on how to do that.
+
+Watch the following video to learn how to use SignPresenter with your current sound system.
 
 [HDMI ARC Audio Extractor](https://amzn.to/3mXtbV6) 
 
