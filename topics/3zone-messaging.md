@@ -1,10 +1,10 @@
 ## Build your own 3 Zone display in landscape or horizontal mode with SignPresenter
 
-3 Zone Templates are great for professional looking digtal sinage this quick tutorial shows you how easy it is to accomplish with sign presenter. The video below shows how easy they are to create in SignPresenter.
+3 Zone Templates are great for professional looking digtal signage! This quick tutorial shows you how easy it is to accomplish with Sign Presenter. The video below shows how easy they are to create in SignPresenter.
 
 [![Connect Lessons.Church to Sign Presenter](https://img.youtube.com/vi/S6Cleqw3OV4/0.jpg)](https://www.youtube.com/watch?v=S6Cleqw3OV4)
 
-## Dimminsions for differnt types of messages. 
+## Dimminsions for different types of messages. 
 
 16:9/ 1920 x 1080
 
@@ -16,7 +16,7 @@
 
 1. Before you begin, you’ll need to create a 4x1 image.
 
-- To add a 4x1 image to SignPresenter
+- To add a 4x1 image to Sign Presenter
 	-	Select the Step 1: Message tab on the left-hand corner of the screen. 
 	-	Select More option and select 4:1 (For Three Zone Template).
 	-	Add it to a category, assign a name and click on the Thumbnail option to upload your 4x1 image.
