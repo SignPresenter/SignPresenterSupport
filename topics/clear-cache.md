@@ -16,16 +16,16 @@ Sometimes things do not get downloaded correctly clearing the cache will delete 
 
 ![Screen Shot 2022-02-11 at 2 50 36 PM](https://user-images.githubusercontent.com/65249159/153668426-8ec06d59-ca6c-4142-af97-a5d9397e234e.png)
 
-4. Select Manage Instaled Applications
+4. Select Manage Installed Applications
 
 ![Screen Shot 2022-02-11 at 2 52 54 PM](https://user-images.githubusercontent.com/65249159/153668681-1962d583-bfbb-413c-b83b-99fb3a317268.png)
 
-5.Scroll close to the Bottom and click SignPresenter
+5.Scroll close to the bottom and click Sign Presenter
 
 ![Screen Shot 2022-02-11 at 2 54 33 PM](https://user-images.githubusercontent.com/65249159/153668871-f4966fae-99bc-4c6c-8e6f-6016b3b6daba.png)
 
 
-6. Scroll to the Bottom and select Clear cache
+6. Scroll to the bottom and select Clear cache
 
 ![Screen Shot 2022-02-11 at 2 56 15 PM](https://user-images.githubusercontent.com/65249159/153669060-b5a79048-b901-4471-9f1b-0197d2298b2c.png)
 
