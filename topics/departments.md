@@ -1,10 +1,10 @@
-## How to add multiple campuses / Departments / franchises inside your single SignPresenter account.
+## How to add multiple Campuses / Departments / Franchises inside your single Sign Presenter account.
 
-Have Multiple locations in your business or church? Sign Presenter makes it easy to add new accounts users and share slides across all those accounts. 
+Have multiple locations in your business or church? Sign Presenter makes it easy to add new accounts users and share slides across all those accounts. 
 
 [![Add multiple Campuses / Departments within one account](https://img.youtube.com/vi/cK-DXxg7X0E/0.jpg)](https://www.youtube.com/watch?v=cK-DXxg7X0E)
 
-## How to Use Sign Presenter with Departments
+## How to use Sign Presenter with Departments
 1. Under the Step 1: Message Tab, select Horizontal 16:9
 2. Select “Pointer” from All Message Templates
 3. Enter a Category and Name for your new Pointer message and choose the target message you would like to use.
