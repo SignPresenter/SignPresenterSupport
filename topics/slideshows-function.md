@@ -1,6 +1,6 @@
 ## Easily Add Powerpoint or Keynote Presentations to Sign Presenter
 
-Watch this quick tutorial on how to easily use our slideshows function to easily add multiple slides in seconds to your Sign Presenter account.
+Watch this quick tutorial on how to use our slideshows function to easily add multiple slides in seconds to your Sign Presenter account.
 
 [![Connect Lessons.Church to Sign Presenter](https://img.youtube.com/vi/LqJ61q6qOXM/0.jpg)](https://www.youtube.com/watch?v=LqJ61q6qOXM)
 
@@ -13,7 +13,7 @@ If you have a PowerPoint or Keynote slideshow, you would like to display it on y
 2. Select the Horizontal 16:9 screen layout for your slideshow.
 
 3. Scroll down to select Slideshow, and the Edit Playlist function will pop up.
-4. Name the playlist and get ready to upload images.
+4.  Name the playlist and get ready to upload images.
 
 *5. To use Keynote or PowerPoint presentations, you will need to convert them to JPEG:*
 
