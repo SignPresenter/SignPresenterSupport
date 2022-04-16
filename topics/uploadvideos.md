@@ -16,8 +16,8 @@ Make sure the videos are under 1GB (If they are over 1GB we recommend [HandBrake
 completed successfully.
 ![Screen Shot 2021-12-08 at 6 34 38 AM](https://user-images.githubusercontent.com/65249159/145209905-efad06d9-3739-4084-b01a-14a4408cbf6b.png)
 
-## What if the Video fails to process? 
-We work hard to make sure we can process every codec but sometimes videos fail to process. If this happens to you please use [HandBrake](https://handbrake.fr/) to convert the video. This will change the codec and when you re-upload the video it should finish processing correctly. 
+## What if the Video fails to process or is just sowing up as black on the screen? 
+We work hard to make sure we can process every codec but sometimes videos fail to process. If this happens to you please use [HandBrake](https://handbrake.fr/) to convert the video. This will change the codec and when you re-upload the video it should finish processing correctly.
 
 Of course if you are still having issue, contact Support @ support@signpresenter.com and if possible send the video you are trying to upload using email or dropbox/google drive and we will analize the video and do our best to get the issue resolved.
 
