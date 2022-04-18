@@ -26,7 +26,7 @@ The custom playlist is already scheduled to run on your screen so at this point 
 ## #3 Installation Instructions on the Tv itself
 
 
-Once you have created a Sign Presenter account and configured your screen(s) the next step is to connect a player. You will need an [Amazon Fire Stick](https://amzn.to/3letCr1) or any Android device running 10.0 or knewer. This is what you will plug into your TV to run the digital signage software. You can find these at most Best Buy and Target stores or online at [Amazon.com](https://amzn.to/3letCr1). See [this article](https://support.signpresenter.com/topics/devicessignpresenterworkson.html) on our support page to find the best device for your needs.
+Once you have created a Sign Presenter account and configured your screen(s) the next step is to connect a player. You will need an [Amazon Fire Stick](https://amzn.to/3letCr1) or any Android device running 10.0 or newer. This is what you will plug into your TV to run the digital signage software. You can find these at most Best Buy and Target stores or online at [Amazon.com](https://amzn.to/3letCr1). See [this article](https://support.signpresenter.com/topics/devicessignpresenterworkson.html) on our support page to find the best device for your needs.
 
 ![firestick](https://user-images.githubusercontent.com/65249159/146643481-49b78c31-34a1-44b0-b9b8-f38394ad0f6e.png)
 
