@@ -13,4 +13,4 @@ Watch the following video to learn how to use SignPresenter with your current so
 
 In order to strip out HDCP from HDMI signal you might need to run the firestick through a splitter. 
 
-[These work great!!]([https://amzn.to/3mXtbV6](https://amzn.to/3lIWpXr)
+[These work great!!](https://amzn.to/3lIWpXr) 
