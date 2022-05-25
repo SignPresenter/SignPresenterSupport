@@ -2,7 +2,7 @@
 You just created your account and you want to get some messages on your screen. This guide will help you get started.
 ### Useing the [Google Chrome](https://www.google.com/chrome/) browser is highly recomended.
 
-[![Setup Instructions](https://img.youtube.com/vi/u9teKOKF9GA/0.jpg)](https://www.youtube.com/watch?v=u9teKOKF9GA)
+[![Setup Instructions](https://img.youtube.com/vi/u9teKOKF9GA/0.jpg)](https://www.youtube.com/watch?v=eK2aOHm7TVs)
 
 ### Messages
 A piece of content that is displayed on your screen is called a "Message". Start by clicking on the Messages tab and you will see your library of messages that can be displayed. To create a new message that shows an image.
@@ -19,4 +19,7 @@ Note: Creating a message simply adds it to the library, it has not been added to
 ### Playlists
 A playlist is a collection of messages. A playlist called 'Custom Playlist' is created automatically and contains the weather message. Add your new message to it. You can create additional playlists if you want to show different content at different times.
 
-The custom playlist is already scheduled to run on your screen so at this point you can preview your screen by going to the Screens tab and clicking the preview link. Once it looks good, you are ready to purchase a player and connect it to your TV. See the installation instructions below.
+The custom playlist is already scheduled to run on your screen so at this point you can preview your screen by going to the Screens tab and clicking the preview link. Once it looks good, you are ready to purchase a player and connect it to your TV. 
+
+### Screens
+
