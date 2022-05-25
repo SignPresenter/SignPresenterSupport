@@ -15,7 +15,7 @@
 - [Screen mode differences](topics/screen-mode-differences.md)
 
 ### Firestick Setup
-- [Using a sound board or speakers](topics/soundboard.md)
+- [Using a sound board or other professional venus](topics/soundboard.md)
 - [Running offline](topics/offline.md)
 
 ### Content Types
