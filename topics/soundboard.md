@@ -11,4 +11,6 @@ Watch the following video to learn how to use SignPresenter with your current so
 
 ## When useing a FireStick with SDI BlackMagic devices
 
-In order to strip out HDCP from HDMI signal you might need to run the firestick through a splitter. [These work great!!]([https://amzn.to/3mXtbV6](https://amzn.to/3lIWpXr)) 
+In order to strip out HDCP from HDMI signal you might need to run the firestick through a splitter. 
+
+[These work great!!]([https://amzn.to/3mXtbV6](https://amzn.to/3lIWpXr)
