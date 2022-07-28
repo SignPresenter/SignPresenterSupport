@@ -5,7 +5,7 @@ will need set your firestick for stereo only sound. Here is a quick video on how
 
 Watch the following video to learn how to use SignPresenter with your current sound system.
 
-[HDMI ARC Audio Extractor](https://amzn.to/3mXtbV6) 
+[HDMI ARC Audio Extractor](https://amzn.to/3bd6IkU) 
 
 [![Connect Lessons.Church to Sign Presenter](https://img.youtube.com/vi/cs1GfnawJYg/0.jpg)](https://www.youtube.com/watch?v=cs1GfnawJYg)
 
