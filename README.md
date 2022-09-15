@@ -9,6 +9,7 @@
 - [Vertical screen setup](topics/verticalsetup.md)
 - [Update billing information](topics/payment.md)
 - [How to Create a Support Ticket](topics/support.md)
+- [ChiroThinTV Setup](topics/chirothintv.md)
 
 ### Accounts, Departments, and Screens
 - [Add multiple campuses / departments within one account](topics/departments.md)
