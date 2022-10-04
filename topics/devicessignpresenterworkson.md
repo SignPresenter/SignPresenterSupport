@@ -41,7 +41,7 @@ Any Fire-TV built after 2020 will work the below links are examples of tvs that 
 
 -As a general rule if you can search Signpresenter in the app store on any device and it shows up SignPresenter will work on your device.
 
-- Older Fire-sticks we are currtnly still running a legacy version of the app 1.9.9 it does work on some older Firesticks but because of their age they are not able to keep up with some videos. You will know you have one of these devices if SignPresenter requires you to login instead of pairing the firestick from the website. 
+- Older Fire-sticks: We are currently still running a legacy version of the app 1.9.9 it does work on some older Firesticks but because of their age they are not able to keep up with some videos. You will know you have one of these devices if SignPresenter requires you to login instead of pairing the firestick from the website. 
 - The biggest issue is sometimes you will see a screen like this.
 ![3h7eO2YVQTKzURorm4_Gig (1)](https://user-images.githubusercontent.com/65249159/193816328-5d29c2fd-6a47-4aa0-81d2-73173a46134a.jpeg)
 
