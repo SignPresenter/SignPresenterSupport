@@ -2,7 +2,7 @@
 
 You just created your account and you want to get some messages on your screen. This guide will help you get started.
 
-[![Sign Presenter Initial Setup Instructions](https://img.youtube.com/vi/u9teKOKF9GA/0.jpg)](https://www.youtube.com/watch?v=u9teKOKF9GA)
+[![Sign Presenter Initial Setup Instructions](https://img.youtube.com/vi/eK2aOHm7TVs/0.jpg)](https://www.youtube.com/embed/eK2aOHm7TVs)
 
 ## #1 Messages
 
