@@ -1,6 +1,9 @@
 ### What Devices and or TVs does Sign Presenter work on?
 
-Sign Presenter will work on any Amazon FireStick released in or after the year 2020. The most affordable Fire Stick is the [Fire TV Stick Lite](https://amzn.to/3letCr1).
+Sign Presenter will work on any Amazon FireStick released in or after the year 2020. 
+
+The most affordable Fire Stick is the [Fire TV Stick Lite](https://amzn.to/3letCr1).
+
 The Lite means you will not be able to control the tv volume or power that you hook the firestick too. This is a great option for Digital signage.
 
 ### If you would like a Firestick that also controls your tv, any of the firesticks listed below work great.
