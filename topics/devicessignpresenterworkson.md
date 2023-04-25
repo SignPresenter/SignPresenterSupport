@@ -6,8 +6,7 @@ If you would like a Firestick that also controls your tv, any of the firesticks 
 
 [Fire TV Stick Lite](https://amzn.to/3letCr1)
 
-## Best for useing in a classroom to run any type of curriculum or presentations on a TV.
-[Fire TV Stick](https://amzn.to/3G6CElN)  
+[Fire TV Stick](https://amzn.to/3G6CElN)  (Best for useing in a classroom to run any type of curriculum or presentations on a TV.)
 
 [Fire TV Stick 4K](https://amzn.to/3lRrBEW)
 
