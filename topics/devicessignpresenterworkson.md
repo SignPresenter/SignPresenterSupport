@@ -6,29 +6,29 @@ If you would like a Firestick that also controls your tv, any of the firesticks 
 
 [Fire TV Stick Lite](https://amzn.to/3letCr1)
 
-[Fire TV Stick](https://amzn.to/3G6CElN)
+## Best for useing in a classroom to run any type of curriculum or presentations on a TV.
+[Fire TV Stick](https://amzn.to/3G6CElN)  
 
 [Fire TV Stick 4K](https://amzn.to/3lRrBEW)
 
 [Fire TV Stick 4K Max](https://amzn.to/3jaApUG)
 
-If you want to buy a tv with the Amazon Firestick built in it you can buy the tvs listed below and Sign Presenter will work seamlessly. 
+If you want to buy a tv with the Amazon Firestick built in it you can buy the tvs listed below and Sign Presenter will work espesically well for running digital signage 24/7.
 
 Any Fire-TV built after 2020 will work the below links are examples of tvs that work.
 
 [Amazon Fire TV 43" 4-Series 4K UHD smart TV](https://amzn.to/3fHyEPN)
 
-[Insignia 50-inch Class F30 Series LED 4K UHD Smart Fire TV](https://amzn.to/3SH20MY)
+[Insignia 50-inch Class F30 Series LED 4K UHD Smart Fire TV](https://amzn.to/3ArFn7x)
 
-[Toshiba 65-inch Class C350 Series LED 4K UHD Smart Fire TV](https://amzn.to/3SBR4A6)
+[Amazon Fire TV 65" Omni Series 4K UHD smart TV](https://amzn.to/3LqrL2K)
 
-[Insignia 32-inch Class F20 Series Smart HD 720p Fire TV](https://amzn.to/3e5mmjQ)
+[Amazon Fire TV 32" 2-Series 720p HD smart TV](https://amzn.to/3mUcQoc)
 
 [Toshiba 50-inch 50C350KU C350 Series LED 4K](https://amzn.to/3aQXjLS)
 
 [Insignia F30 Series 4K UHD](https://amzn.to/3DQAdSo)
 
-[Insignia NS-65DF710NA21 Smart 4K UHD](https://amzn.to/3DU1Yth)
 
 ## Android devices now supported 
 
