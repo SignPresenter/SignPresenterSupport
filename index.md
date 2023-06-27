@@ -37,3 +37,4 @@
 - [Useing SignPresenter Outside of the USA](topics/anycountry.md)
 - [Videos and pictures do not seem fully downloaded how do I clear my cache?](topics/clear-cache.md)
 - [SignPresenter is stuck on a screen that says Loading Instructions...](topics/loadingerror.md)
+- ["Still Watching?" Pop-up on Fire TV](topics/disablestillwatching.md)
