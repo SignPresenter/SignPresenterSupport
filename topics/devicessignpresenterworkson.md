@@ -2,17 +2,17 @@
 
 Sign Presenter will work on any Amazon FireStick released in or after the year 2020. 
 
-The most affordable Fire Stick is the [Fire TV Stick Lite](https://amzn.to/3x7w5zj).
+The most affordable Fire Stick is the [Fire TV Stick Lite](https://amzn.to/3x7w5zj). (Our recommendation for digital signage)
 
 The Lite means you will not be able to control the tv volume or power that you hook the firestick too. This is a great option for Digital signage.
 
 ### If you would like a Firestick that also controls your tv, any of the firesticks listed below work great.
 
-[Fire TV Stick](https://amzn.to/3G6CElN)  
+[Fire TV Stick](https://amzn.to/3G6CElN) (Ideal for classroom use, perfect for running diverse curricula and presentations seamlessly on a TV.) 
 
-[Fire TV Stick 4K](https://amzn.to/3NHUHE9) 
+[Fire TV Stick 4K](https://amzn.to/3NHUHE9) (Due to Fire OS 8, the Firestick no longer supports automatic reboots. Following a power surge, you'll need to manually launch SignPresenter.)
 
-[Fire TV Stick 4K Max](https://amzn.to/3GYx1rd) (Best for useing in a classroom to run any type of curriculum or presentations on a TV.)
+[Fire TV Stick 4K Max](https://amzn.to/3GYx1rd) (Due to Fire OS 8, the Firestick no longer supports automatic reboots. Following a power surge, you'll need to manually launch SignPresenter.)
 
 If you want to buy a tv with the Amazon Firestick built in it you can buy the tvs listed below and Sign Presenter will work espesically well for running digital signage 24/7.
 
