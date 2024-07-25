@@ -8,7 +8,7 @@ The Lite means you will not be able to control the tv volume or power that you h
 
 ### If you would like a Firestick that also controls your tv, any of the firesticks listed below work great.
 
-[Fire TV Stick](https://amzn.to/3G6CElN) (Ideal for classroom use, perfect for running diverse curricula and presentations seamlessly on a TV.) 
+[Fire TV Stick](https://amzn.to/3G6CElN) (Ideal for classroom use, this device is perfect for running diverse curricula and presentations seamlessly on a TV. It comes with 8GB of storage, sufficient for most weekly curricula. For the fastest performance and additional storage, consider the Fire TV Stick 4K Max, which includes a 16GB hard drive.) 
 
 [Fire TV Stick 4K](https://amzn.to/3NHUHE9) (Due to Fire OS 8, the Firestick no longer supports automatic reboots. Following a power surge, you'll need to manually launch SignPresenter.)
 
