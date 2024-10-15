@@ -27,8 +27,8 @@
 13. Html
 14. Video 1080p (Upload same as Video with audio)
 15. Live Video (Upload same as Video with audio)
-16. [Calander Daily Overview](https://support.signpresenter.com/topics/directory-and-sinage.html)
+16. [Calander Daily Overview](https://support.signpresenter.com/topics/add-google-calendar.html)
 17. Clock
-18. Calander Upcoming
-19. Calnder Current Event
+18. [Calander Upcoming](https://support.signpresenter.com/topics/add-google-calendar.html)
+19. [Calnder Current Event](https://support.signpresenter.com/topics/add-google-calendar.html)
 20. Video 4K (Upload same as Video with audio only use if you have a 4K stick and lots of storage!)
