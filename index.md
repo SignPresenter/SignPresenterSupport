@@ -20,6 +20,7 @@
 - [Running offline](topics/offline.md)
 
 ### Content Types
+- [What is a Message?](topics/whatisamessage.md)
 - [Add google calendar to a playlist](topics/add-google-calendar.md)
 - [Make your own digital menus](topics/digital-menus.md)
 - [Connect Lessons.church](topics/lessons-dot-church.md)
