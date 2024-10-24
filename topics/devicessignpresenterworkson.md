@@ -31,13 +31,6 @@ Any Fire-TV built after 2020 will work the below links are examples of tvs that 
 [Insignia F30 Series 4K UHD](https://amzn.to/3DQAdSo)
 
 
-## Android devices now supported 
-
--Any Android device running Android 10.0 or newer will work with SignPresenter
-
-## Tested devices
-- $19.88 [onn. Android TV 4K UHD Streaming Device with Voice Remote Control](https://www.walmart.com/ip/onn-Android-TV-4K-UHD-Streaming-Device-with-Voice-Remote-Control-HDMI-Cable/636597403?athbdg=L1600)
-
 ## Other notes
 
 -As a general rule if you can search Signpresenter in the app store on any device and it shows up SignPresenter will work on your device.
