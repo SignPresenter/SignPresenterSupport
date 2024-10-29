@@ -10,11 +10,17 @@ Before starting, it's recommended to use Google Chrome for optimal performance w
 
 ## Creating a Message
 1.) Click "New" and select your desired screen layout.
+
 2.) The most common message templates will be displayed first. For a complete list, click the "All Message Templates" button.
+
 3.) Choose a template (many have unique options, such as the weather template).
+
 4.) For a simple image message, select the simple image template, then click the "Upload Your Image" icon.
+
 5.)This action will open your file browser to select an image. After uploading, you can crop the image if desired, then click "Update."
+
 6.)The uploaded image will appear in the designated image section. Give your image a name and click "Save."
+
 7.)Use the preview section to see how the message will look on your screen.
 
 ## Understanding Categories
