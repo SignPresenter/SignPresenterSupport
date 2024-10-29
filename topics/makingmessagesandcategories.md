@@ -1,6 +1,6 @@
 ## Making Messages and Categories
 
-[![What is a "Message" in SignPresenter?](https://www.youtube.com/watch?v=KqDyiQpAmtU/0.jpg)](https://www.youtube.com/watch?v=KqDyiQpAmtU)
+[![What is a "Message" in SignPresenter?](https://img.youtube.com/vi/KqDyiQpAmtU/0.jpg)](https://www.youtube.com/watch?v=KqDyiQpAmtU)
 
 ## Making Messages and Categories - Video Summary
 In this video titled "Making Messages and Categories," viewers will learn about the various types of messages, how to create an image message, and how to organize messages using categories.
