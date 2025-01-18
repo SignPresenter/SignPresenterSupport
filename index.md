@@ -32,6 +32,7 @@
 - [PowerPoint Or Keynote](topics/slideshows-function.md)
 - [Expiring Playlists](topics/limitdates.md)
 - [Weather](topics/weather.md)
+- [Automatic feeds](topics/feeds.md)
 
 ### Common Problems
 - [I Can't preview videos On Signpresenter.com](topics/cantpreview.md)
