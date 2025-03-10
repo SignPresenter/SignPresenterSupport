@@ -1,6 +1,9 @@
 ## How to add multiple Campuses / Departments / Franchises inside your single Sign Presenter account.
 
-Have multiple locations in your business or church? Sign Presenter makes it easy to add new accounts users and share slides across all those accounts. 
+Your SignPresenter subscription lets you create unlimited departments and users with ease. 
+
+## Managing multiple locations for your business or church? 
+SignPresenter makes it simple to add accounts, assign users, and seamlessly share slides across all locations.
 
 [![Add multiple Campuses / Departments within one account](https://img.youtube.com/vi/cK-DXxg7X0E/0.jpg)](https://www.youtube.com/watch?v=cK-DXxg7X0E)
 
