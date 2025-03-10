@@ -1,6 +1,6 @@
 ## How to add multiple Campuses / Departments / Franchises inside your single Sign Presenter account.
 
-Your SignPresenter subscription lets you create unlimited departments and users with ease. 
+Your SignPresenter subscription—just $10/month—includes unlimited departments and users at no extra cost.
 
 ## Managing multiple locations for your business or church? 
 SignPresenter makes it simple to add accounts, assign users, and seamlessly share slides across all locations.
