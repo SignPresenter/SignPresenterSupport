@@ -15,16 +15,15 @@ SignPresenter is compatible with:
 - Ideal for signage use  
 - *Note: Does not control TV volume or power*
 
-### ✅ Has TV controls  
+### ✅ Has TV Controls  
 [**Fire TV Stick**](https://a.co/d/4N5n6cm)  
 - Great for running curriculum and presentations  
-- 8GB storage (sufficient for weekly use)  
-
+- 8GB storage (sufficient for weekly use)
 
 ### ✅ Best for Classrooms or Multi-Use  
 [**Fire TV Stick 4K Max**](https://amzn.to/3GYx1rd)  
 - High-resolution support  
-- *Note: Fire OS 8 disables auto-reboot. Manual relaunch needed after power loss*
+- *Note: Fire OS 8 disables auto-reboot. Manual relaunch needed after power loss*  
 - 16GB storage and faster performance
 
 ---
@@ -48,8 +47,9 @@ Examples:
 SignPresenter now works on Android devices running **Android 10.0 or newer**.  
 [**Download from Google Play**](https://play.google.com/store/apps/details?id=com.signpresenter.screen&pcampaignid=web_share)
 
-### ✅ Tested Android Device
-- [$19.88 onn. Android TV 4K UHD Streaming Device (Walmart)](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-Resolution/2835618394?adsRedirect=true)
+### ✅ Tested Android Devices
+- [$19.88 onn. Android TV 4K UHD Streaming Device](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-Resolution/2835618394?adsRedirect=true)
+- [$34.88 onn. Google TV 4K Plus Streaming Device](https://www.walmart.com/ip/ONN-4K-PLUS/15557424949?adsRedirect=true)
 
 ---
 
