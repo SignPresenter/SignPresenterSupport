@@ -1,41 +1,58 @@
-### What Devices and or TVs does Sign Presenter work on?
+# What Devices and TVs Does SignPresenter Work On?
 
-Sign Presenter will work on any Amazon FireStick released in or after the year 2020. 
+SignPresenter is compatible with:
+- Any **Amazon FireStick** released in **2020 or later**
+- Most **Android devices** running **Android 10.0 or newer**
+- **Fire TVs** built **2020 or later**
 
-The most affordable Fire Stick is the [Fire TV Stick Lite](https://amzn.to/3x7w5zj). (Our recommendation for digital signage)
+---
 
-The Lite means you will not be able to control the tv volume or power that you hook the firestick too. This is a great option for Digital signage.
+## 🔥 Recommended FireStick Devices
 
-### If you would like a Firestick that also controls your tv, any of the firesticks listed below work great.
+### ✅ Best Budget Option for Digital Signage  
+[**Fire TV Stick Lite**](https://amzn.to/3x7w5zj)  
+- Most affordable FireStick  
+- Ideal for signage use  
+- *Note: Does not control TV volume or power*
 
-[Fire TV Stick](https://amzn.to/3G6CElN) (Ideal for classroom use, this device is perfect for running diverse curricula and presentations seamlessly on a TV. It comes with 8GB of storage, sufficient for most weekly curricula. For the fastest performance and additional storage, consider the Fire TV Stick 4K Max, which includes a 16GB hard drive.) 
+### ✅ Has TV controls  
+[**Fire TV Stick**](https://a.co/d/4N5n6cm)  
+- Great for running curriculum and presentations  
+- 8GB storage (sufficient for weekly use)  
 
-[Fire TV Stick 4K](https://amzn.to/3NHUHE9) (Due to Fire OS 8, the Firestick no longer supports automatic reboots. Following a power surge, you'll need to manually launch SignPresenter.)
 
-[Fire TV Stick 4K Max](https://amzn.to/3GYx1rd) (Due to Fire OS 8, the Firestick no longer supports automatic reboots. Following a power surge, you'll need to manually launch SignPresenter.)
+### ✅ Best for Classrooms or Multi-Use  
+[**Fire TV Stick 4K Max**](https://amzn.to/3GYx1rd)  
+- High-resolution support  
+- *Note: Fire OS 8 disables auto-reboot. Manual relaunch needed after power loss*
+- 16GB storage and faster performance
 
-If you want to buy a tv with the Amazon Firestick built in it you can buy the tvs listed below and Sign Presenter will work espesically well for running digital signage 24/7.
+---
 
-Any Fire-TV built after 2020 will work the below links are examples of tvs that work.
+## 🖥️ TVs with Built-In Fire TV
 
-[Amazon Fire TV 43" 4-Series 4K UHD smart TV](https://amzn.to/3fHyEPN)
+Any **Fire TV built after 2020** will work great—especially for 24/7 digital signage.
 
-[Insignia 50-inch Class F30 Series LED 4K UHD Smart Fire TV](https://amzn.to/3ArFn7x)
+Examples:
+- [Amazon Fire TV 43" 4-Series 4K UHD](https://a.co/d/0GxeFdQ)
+- [Insignia 50" Class F30 4K UHD](https://amzn.to/3ArFn7x)
+- [Amazon Fire TV 65" Omni Series 4K UHD](https://a.co/d/0c3TKt5)
+- [Amazon Fire TV 32" 2-Series 720p HD](https://amzn.to/3mUcQoc)
+- [TOSHIBA 50" Class C350 Series](https://a.co/d/3VjpodS)
+- [INSIGNIA 50-inch Class F50 Series](https://a.co/d/cxVXcNy)
 
-[Amazon Fire TV 65" Omni Series 4K UHD smart TV](https://amzn.to/3LqrL2K)
+---
 
-[Amazon Fire TV 32" 2-Series 720p HD smart TV](https://amzn.to/3mUcQoc)
+## 🤖 Android Devices Now Supported
 
-[Toshiba 50-inch 50C350KU C350 Series LED 4K](https://amzn.to/3aQXjLS)
+SignPresenter now works on Android devices running **Android 10.0 or newer**.  
+[**Download from Google Play**](https://play.google.com/store/apps/details?id=com.signpresenter.screen&pcampaignid=web_share)
 
-[Insignia F30 Series 4K UHD](https://amzn.to/3DQAdSo)
+### ✅ Tested Android Device
+- [$19.88 onn. Android TV 4K UHD Streaming Device (Walmart)](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-Resolution/2835618394?adsRedirect=true)
 
-## Android devices now supported 
+---
 
--Any Android device running Android 10.0 or newer will work with SignPresenter
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.signpresenter.screen&pcampaignid=web_share)
+## ✅ How to Confirm Compatibility
 
-## Tested devices
-- [$19.88 onn. Android TV 4K UHD Streaming Device with Voice Remote Control](https://www.walmart.com/ip/onn-Android-TV-4K-UHD-Streaming-Device-with-Voice-Remote-Control-HDMI-Cable/636597403?athbdg=L1600)
-
--As a general rule if you can search Signpresenter in the app store on any device and it shows up SignPresenter will work on your device.
+If you can **find SignPresenter in your device's app store**, it will work!
