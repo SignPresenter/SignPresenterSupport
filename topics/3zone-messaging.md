@@ -1,41 +1,59 @@
-## Build your own 3 Zone display in landscape or horizontal mode with SignPresenter
+# 🚀 Build a 3-Zone Display with SignPresenter  
+**Landscape or Vertical — Fast, Flexible, Professional**
 
-3 Zone Templates are great for professional looking digtal signage! This quick tutorial shows you how easy it is to accomplish with Sign Presenter. The video below shows how easy they are to create in SignPresenter.
+3-Zone templates are a powerful way to create clean, modern digital signage. With **SignPresenter**, it’s quick and easy to get started.
 
-[![Connect Lessons.Church to Sign Presenter](https://img.youtube.com/vi/S6Cleqw3OV4/0.jpg)](https://www.youtube.com/watch?v=S6Cleqw3OV4)
+🎥 **Watch how it works:**  
+[![Watch the tutorial](https://img.youtube.com/vi/S6Cleqw3OV4/0.jpg)](https://www.youtube.com/watch?v=S6Cleqw3OV4)
 
-## Dimminsions for different types of messages. 
+---
 
-16:9/ 1920 x 1080
+## 📐 Recommended Dimensions
 
-9:16/ 1080 X 1920
+| Ratio  | Dimensions     | Ideal For                     |
+|--------|----------------|-------------------------------|
+| 16:9   | 1920 × 1080    | Landscape full-screen         |
+| 9:16   | 1080 × 1920    | Vertical signage              |
+| 4:1    | 1280 × 320     | Marquee / message strip zones |
 
-4:1 / 1280 X 320
+---
 
-## How to Build a Three Zone Display ##
+## 🧰 Step-by-Step: Build Your Three-Zone Display
 
-1. Before you begin, you’ll need to create a 4x1 image.
+### 1️⃣ Create Your 4:1 Image
 
-- To add a 4x1 image to Sign Presenter
-	-	Select the Step 1: Message tab on the left-hand corner of the screen. 
-	-	Select More option and select 4:1 (For Three Zone Template).
-	-	Add it to a category, assign a name and click on the Thumbnail option to upload your 4x1 image.
-	-	Select Upload on the right-hand side in the Crop box and select your image from your computer. 
-	-	Crop your image to your preferences and click Save.
+1. Go to **Step 1: Message** (left menu).
+2. Click **More → 4:1 (For Three Zone Template)**.
+3. Add a name, assign to a category.
+4. Click **Thumbnail → Upload**, select your image.
+5. Crop & **Save**.
 
-2. To Create a 4x1 image playlist
-	-	Select the Step 2: Playlist tab in the middle of the screen.
-	-	Select More option and select 4:1 (For Three Zone Template)
-	-	Select Create a New Custom Playlist or select a template.
-	-	Assign a name for your playlist.
-	-	Select your images from the Available Content Box on the right-hand side of the screen, then click Save.
+---
 
-3. To Create the Three Zone Template Display
-	-	Select the Step 1: Message tab on the left-hand corner of the screen.
-	-	Select either the Horizontal or Vertical.
-	-	Select All Designs and select Three Zone from the open drop-down.
-	-	Assign the template a category and a name. Three Zone allows multiple ratios: 16:9, 9:16, 4:1. Vertical images can be displayed to the left or the right, and horizontal images can be at the top or the bottom.
-	-	Select the ratio and select +New to add a new playlist or message under the assigned ratio and click Update until all three ratios have an assigned playlist or message.
+### 2️⃣ Build a 4:1 Playlist
 
-## * Vertical Three Zone images can be added by following the same steps after choosing the vertical option from the main Message tab.
+1. Go to **Step 2: Playlist**.
+2. Click **More → 4:1 (For Three Zone Template)**.
+3. Choose **New Custom Playlist** or a template.
+4. Name your playlist.
+5. Select images from the **Available Content** area.
+6. Click **Save**.
 
+---
+
+### 3️⃣ Combine in a Three-Zone Display
+
+1. Back in **Step 1: Message**, choose:
+   - **Horizontal** or **Vertical**
+2. Click **All Designs → Three Zone**.
+3. Name the template, assign category.
+4. Choose ratios and assign content:
+   - 📺 Top/bottom for horizontal
+   - 📱 Left/right for vertical
+5. Click **+ New** to assign playlists/messages.
+6. Repeat for all 3 zones → then click **Update**.
+
+---
+
+> 💡 **Pro Tip:** Want a vertical display?  
+Just select the **Vertical** option from the Message tab and follow the same process!
