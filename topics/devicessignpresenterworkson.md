@@ -7,14 +7,6 @@ SignPresenter is compatible with:
 
 ---
 
-## ⚠️ Important: Fire TV Stick 4K Select NOT Compatible
-
-![Fire TV Stick 4K Select - Do Not Buy](/images/61x3MQufBOL._AC_SL1500_.jpg)
-
-**DO NOT purchase the Fire TV Stick 4K Select.** This device runs Amazon's new **Vega OS** (Linux-based) instead of Fire OS (Android-based). SignPresenter will NOT work on Vega OS devices.
-
----
-
 ## 🔥 Recommended FireStick Devices
 
 ### ✅ Best for Digital Signage
@@ -38,6 +30,14 @@ SignPresenter is compatible with:
 - High-resolution support
 - Wi-Fi 6E, 16GB storage, faster processor
 - *Note: Fire OS 8 disables auto-reboot. Manual relaunch needed after power loss*
+
+---
+
+## ⚠️ Important: Fire TV Stick 4K Select NOT Compatible
+
+<img src="/images/61x3MQufBOL._AC_SL1500_.jpg" alt="Fire TV Stick 4K Select - Do Not Buy" width="150">
+
+**DO NOT purchase the Fire TV Stick 4K Select.** This device runs Amazon's new **Vega OS** (Linux-based) instead of Fire OS (Android-based). SignPresenter will NOT work on Vega OS devices.
 
 ---
 
