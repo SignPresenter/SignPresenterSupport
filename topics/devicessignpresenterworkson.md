@@ -1,36 +1,49 @@
 # What Devices and TVs Does SignPresenter Work On?
 
 SignPresenter is compatible with:
-- Any **Amazon FireStick** released in **2020 or later**
+- **Amazon FireStick** devices running **Fire OS** (Android-based)
 - Most **Android devices** running **Android 10.0 or newer**
-- **Fire TVs** built **2020 or later**
+- **Fire TVs** with Fire OS
+
+---
+
+## ⚠️ Important: Fire TV Stick 4K Select NOT Compatible
+
+![Fire TV Stick 4K Select - Do Not Buy](/images/61x3MQufBOL._AC_SL1500_.jpg)
+
+**DO NOT purchase the Fire TV Stick 4K Select.** This device runs Amazon's new **Vega OS** (Linux-based) instead of Fire OS (Android-based). SignPresenter will NOT work on Vega OS devices.
 
 ---
 
 ## 🔥 Recommended FireStick Devices
 
-### ✅ Best Budget Option for Digital Signage  
-[**Fire TV Stick Lite**](https://amzn.to/3x7w5zj)  
-- Most affordable FireStick  
-- Ideal for signage use  
-- *Note: Does not control TV volume or power*
+### ✅ Best for Digital Signage
+[**Fire TV Stick HD**](https://www.amazon.com/dp/B0CQMRKRV5)
+- Most affordable FireStick that works with SignPresenter
+- 8GB storage, 1080p HD streaming
+- Includes TV power and volume controls
+- **Auto-reboots after power loss** - ideal for 24/7 signage
+- Runs Fire OS (Android-based)
 
-### ✅ Has TV Controls  
-[**Fire TV Stick**](https://a.co/d/4N5n6cm)  
-- Great for running curriculum and presentations  
-- 8GB storage (sufficient for weekly use)
+### ✅ Best 4K Option
+[**Fire TV Stick 4K**](https://www.amazon.com/dp/B0CJM1GNFQ)
+- 4K Ultra HD with Dolby Vision and HDR10+
+- Wi-Fi 6 support
+- 8GB storage
+- Runs Fire OS (Android-based)
+- *Note: Fire OS 8 disables auto-reboot. Manual relaunch needed after power loss*
 
-### ✅ Best for Classrooms or Multi-Use  
-[**Fire TV Stick 4K Max**](https://amzn.to/3GYx1rd)  
-- High-resolution support  
-- *Note: Fire OS 8 disables auto-reboot. Manual relaunch needed after power loss*  
-- 16GB storage and faster performance
+### ✅ Best Performance
+[**Fire TV Stick 4K Max**](https://amzn.to/3GYx1rd)
+- High-resolution support
+- Wi-Fi 6E, 16GB storage, faster processor
+- *Note: Fire OS 8 disables auto-reboot. Manual relaunch needed after power loss*
 
 ---
 
 ## 🖥️ TVs with Built-In Fire TV
 
-Any **Fire TV built after 2020** will work great—especially for 24/7 digital signage.
+TVs with built-in **Fire OS** work great for 24/7 digital signage.
 
 Examples:
 - [Amazon Fire TV 43" 4-Series 4K UHD](https://a.co/d/0GxeFdQ)
