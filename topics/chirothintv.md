@@ -27,7 +27,11 @@ Complete setup in under 10 minutes and start displaying professional content for
 ## Step 3: Install Sign Presenter on Your Fire Stick
 
 ### Device Requirements
-Any Fire Stick from 2020 or newer will work, including the [Fire TV Stick HD](https://www.amazon.com/dp/B0CQMRKRV5).
+Sign Presenter works on Fire Sticks running **Fire OS** (Android-based) and Android devices running **Android 10.0 or newer**.
+
+**Recommended:** [Fire TV Stick HD](https://www.amazon.com/dp/B0CQMRKRV5) - Best for 24/7 digital signage with auto-reboot capability.
+
+**Important:** NOT all Fire Sticks are compatible. See the [full device compatibility guide](https://support.signpresenter.com/topics/devicessignpresenterworkson.html) for details.
 
 ### Installation Steps
 
