@@ -5,9 +5,79 @@
 
 .site-footer {display: none;}
 
-a[href*=youtube]::after{
-  content:"Watch video";
-  display:block;
+/* YouTube Video Thumbnail Styling */
+a[href*="youtube.com"][href*="watch"],
+a[href*="youtube.com"][href*="embed"] {
+  display: block;
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin: 30px auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+a[href*="youtube.com"][href*="watch"]:hover,
+a[href*="youtube.com"][href*="embed"]:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+/* 16:9 Aspect Ratio Container */
+a[href*="youtube.com"][href*="watch"] img,
+a[href*="youtube.com"][href*="embed"] img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+/* Play Button Overlay */
+a[href*="youtube.com"][href*="watch"]::after,
+a[href*="youtube.com"][href*="embed"]::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80px;
+  height: 80px;
+  background: rgba(255, 0, 0, 0.9);
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  transition: all 0.3s ease;
+}
+
+/* Play Triangle */
+a[href*="youtube.com"][href*="watch"]::before,
+a[href*="youtube.com"][href*="embed"]::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  width: 0;
+  height: 0;
+  border-left: 24px solid white;
+  border-top: 14px solid transparent;
+  border-bottom: 14px solid transparent;
+  z-index: 2;
+  transition: all 0.3s ease;
+}
+
+/* Hover Effects for Play Button */
+a[href*="youtube.com"][href*="watch"]:hover::after,
+a[href*="youtube.com"][href*="embed"]:hover::after {
+  background: rgba(255, 0, 0, 1);
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+a[href*="youtube.com"][href*="watch"]:hover::before,
+a[href*="youtube.com"][href*="embed"]:hover::before {
+  border-left-color: #fff;
 }
 
 .page-header{
