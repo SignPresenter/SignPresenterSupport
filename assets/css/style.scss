@@ -5,6 +5,34 @@
 
 .site-footer {display: none;}
 
+/* Breadcrumb Navigation */
+.breadcrumb-nav {
+  background: #f6f8fa;
+  border-bottom: 2px solid #17a2b8;
+  padding: 15px 20px;
+  margin: -20px -20px 30px -20px;
+}
+
+.breadcrumb-home {
+  color: #17a2b8;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  transition: color 0.2s ease;
+}
+
+.breadcrumb-home:hover {
+  color: #138496;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 64em) {
+  .breadcrumb-nav {
+    margin: -30px -64px 40px -64px;
+    padding: 15px 64px;
+  }
+}
+
 /* YouTube Video Thumbnail Styling - Only for links with images */
 a[href*="youtube.com"] img {
   display: block;
@@ -89,9 +117,9 @@ a[href*="youtube.com"]:has(img):hover::before {
 
 /* Step sections - clean and minimal */
 .main-content h2 {
-  color: #159957;
+  color: #17a2b8;
   padding: 0 0 15px 0;
-  border-bottom: 3px solid #159957;
+  border-bottom: 3px solid #17a2b8;
   margin-top: 50px;
   margin-bottom: 30px;
   font-size: 32px;
@@ -128,14 +156,14 @@ a[href*="youtube.com"]:has(img):hover::before {
 }
 
 .main-content li strong {
-  color: #159957;
+  color: #17a2b8;
   font-weight: 600;
 }
 
 /* Confirmation/Note boxes - subtle */
 .main-content p strong:first-child {
   display: inline-block;
-  color: #159957;
+  color: #17a2b8;
   font-weight: 600;
 }
 
@@ -147,14 +175,14 @@ a[href*="youtube.com"]:has(img):hover::before {
 
 /* Link styling - elegant underlines */
 .main-content a {
-  color: #159957;
+  color: #17a2b8;
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: border-color 0.2s ease;
 }
 
 .main-content a:hover {
-  border-bottom-color: #159957;
+  border-bottom-color: #17a2b8;
 }
 
 /* Video tutorial links - subtle */
@@ -167,8 +195,8 @@ a[href*="youtube.com"]:has(img):hover::before {
 }
 
 .main-content a[href*="youtube.com"]:not([href*="img.youtube"]):hover {
-  color: #159957;
-  border-bottom-color: #159957;
+  color: #17a2b8;
+  border-bottom-color: #17a2b8;
 }
 
 /* Device choice - subtle highlight */
@@ -197,10 +225,10 @@ a[href*="youtube.com"]:has(img):hover::before {
 }
 
 .main-content h2:last-of-type + p + ul li a {
-  color: #159957;
+  color: #17a2b8;
   font-weight: 600;
   padding: 10px 20px;
-  border: 2px solid #159957;
+  border: 2px solid #17a2b8;
   border-radius: 5px;
   text-decoration: none;
   display: inline-block;
@@ -208,7 +236,7 @@ a[href*="youtube.com"]:has(img):hover::before {
 }
 
 .main-content h2:last-of-type + p + ul li a:hover {
-  background: #159957;
+  background: #17a2b8;
   color: white;
 }
 
