@@ -1,5 +1,8 @@
 ## SignPresenter Support
 
+### Quick Help
+
+- [Frequently Asked Questions (FAQ)](topics/faq.md)
 
 ### Getting Started
 
