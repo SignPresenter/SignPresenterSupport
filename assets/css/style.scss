@@ -44,11 +44,6 @@ a[href*=youtube]::after{
   font-size: 36px;
 }
 
-/* Step counter styling */
-.main-content h2:nth-of-type(2)::before { content: "Step 1: "; color: #159957; }
-.main-content h2:nth-of-type(3)::before { content: "Step 2: "; color: #159957; }
-.main-content h2:nth-of-type(4)::before { content: "Step 3: "; color: #159957; }
-
 /* Subsections */
 .main-content h3 {
   color: #333;
