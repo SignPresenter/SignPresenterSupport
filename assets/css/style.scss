@@ -5,9 +5,16 @@
 
 .site-footer {display: none;}
 
-/* YouTube Video Thumbnail Styling */
-a[href*="youtube.com"][href*="watch"],
-a[href*="youtube.com"][href*="embed"] {
+/* YouTube Video Thumbnail Styling - Only for links with images */
+a[href*="youtube.com"] img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+a[href*="youtube.com"]:has(img) {
   display: block;
   position: relative;
   width: 100%;
@@ -19,25 +26,13 @@ a[href*="youtube.com"][href*="embed"] {
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-a[href*="youtube.com"][href*="watch"]:hover,
-a[href*="youtube.com"][href*="embed"]:hover {
+a[href*="youtube.com"]:has(img):hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 20px rgba(0,0,0,0.25);
 }
 
-/* 16:9 Aspect Ratio Container */
-a[href*="youtube.com"][href*="watch"] img,
-a[href*="youtube.com"][href*="embed"] img {
-  display: block;
-  width: 100%;
-  height: auto;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
-}
-
-/* Play Button Overlay */
-a[href*="youtube.com"][href*="watch"]::after,
-a[href*="youtube.com"][href*="embed"]::after {
+/* Play Button Overlay - Only for video thumbnails */
+a[href*="youtube.com"]:has(img)::after {
   content: "";
   position: absolute;
   top: 50%;
@@ -52,8 +47,7 @@ a[href*="youtube.com"][href*="embed"]::after {
 }
 
 /* Play Triangle */
-a[href*="youtube.com"][href*="watch"]::before,
-a[href*="youtube.com"][href*="embed"]::before {
+a[href*="youtube.com"]:has(img)::before {
   content: "";
   position: absolute;
   top: 50%;
@@ -69,14 +63,12 @@ a[href*="youtube.com"][href*="embed"]::before {
 }
 
 /* Hover Effects for Play Button */
-a[href*="youtube.com"][href*="watch"]:hover::after,
-a[href*="youtube.com"][href*="embed"]:hover::after {
+a[href*="youtube.com"]:has(img):hover::after {
   background: rgba(255, 0, 0, 1);
   transform: translate(-50%, -50%) scale(1.1);
 }
 
-a[href*="youtube.com"][href*="watch"]:hover::before,
-a[href*="youtube.com"][href*="embed"]:hover::before {
+a[href*="youtube.com"]:has(img):hover::before {
   border-left-color: #fff;
 }
 
