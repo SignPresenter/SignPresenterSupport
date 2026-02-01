@@ -1,8 +1,5 @@
 ## SignPresenter Support
 
-### Quick Help
-
-- [Frequently Asked Questions (FAQ)](topics/faq.md)
 
 ### Getting Started
 
@@ -44,3 +41,8 @@
 - [Videos and pictures do not seem fully downloaded how do I clear my cache?](topics/clear-cache.md)
 - [SignPresenter is stuck on a screen that says Loading Instructions...](topics/loadingerror.md)
 - ["Still Watching?" Pop-up on Fire TV](topics/disablestillwatching.md)
+
+---
+
+### Frequently Asked Questions
+- [View all FAQs with quick answers](topics/faq.md)
