@@ -8,7 +8,7 @@ SignPresenter lets you pull designs directly from your Canva account and display
 
 ---
 
-![Canva setup walkthrough](../images/canva-tutorial.gif)
+![Canva setup walkthrough](../images/canva-tutorial.webp)
 
 ---
 
