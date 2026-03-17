@@ -12,12 +12,45 @@ SignPresenter lets you pull designs directly from your Canva account and display
 
 ---
 
+<!-- Lightbox -->
+<style>
+.lb-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  z-index: 9999;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+}
+.lb-overlay.active { display: flex; }
+.lb-overlay img { max-width: 92vw; max-height: 92vh; border-radius: 6px; box-shadow: 0 4px 30px rgba(0,0,0,0.6); }
+.lb-close { position: fixed; top: 18px; right: 24px; color: #fff; font-size: 36px; font-weight: bold; cursor: pointer; line-height: 1; }
+.zoom-img { cursor: zoom-in; border: 2px solid #e0e0e0; border-radius: 4px; }
+.zoom-hint { font-size: 0.82em; color: #888; margin-top: 4px; display: block; }
+</style>
+
+<div class="lb-overlay" id="lb" onclick="this.classList.remove('active')">
+  <span class="lb-close" onclick="document.getElementById('lb').classList.remove('active')">&times;</span>
+  <img id="lb-img" src="" alt="">
+</div>
+
+<script>
+function openLB(src, alt) {
+  document.getElementById('lb-img').src = src;
+  document.getElementById('lb-img').alt = alt;
+  document.getElementById('lb').classList.add('active');
+}
+</script>
+
 <details>
 <summary><strong>Step 1 — Go to My Content</strong></summary>
 <br>
 Click on <strong>Step 1: My Content</strong> at the top of the screen, then click the green <strong>+</strong> button to create a new message.
 <br><br>
-<img src="../images/canva-step1.png" alt="Go to My Content" style="max-width:100%;">
+<img class="zoom-img" src="../images/canva-step1.png" alt="Go to My Content" style="max-width:100%;" onclick="openLB(this.src, this.alt)">
+<span class="zoom-hint">Click image to enlarge</span>
 </details>
 
 <details>
@@ -25,7 +58,8 @@ Click on <strong>Step 1: My Content</strong> at the top of the screen, then clic
 <br>
 Choose <strong>Horizontal 16:9</strong> for your screen layout.
 <br><br>
-<img src="../images/canva-step2.png" alt="Select Horizontal Layout" style="max-width:100%;">
+<img class="zoom-img" src="../images/canva-step2.png" alt="Select Horizontal Layout" style="max-width:100%;" onclick="openLB(this.src, this.alt)">
+<span class="zoom-hint">Click image to enlarge</span>
 </details>
 
 <details>
@@ -33,7 +67,8 @@ Choose <strong>Horizontal 16:9</strong> for your screen layout.
 <br>
 Click <strong>All Message Templates</strong> to see the full list of content types.
 <br><br>
-<img src="../images/canva-step3.png" alt="Open All Message Templates" style="max-width:100%;">
+<img class="zoom-img" src="../images/canva-step3.png" alt="Open All Message Templates" style="max-width:100%;" onclick="openLB(this.src, this.alt)">
+<span class="zoom-hint">Click image to enlarge</span>
 </details>
 
 <details>
@@ -41,7 +76,8 @@ Click <strong>All Message Templates</strong> to see the full list of content typ
 <br>
 Scroll down and click the <strong>Canva</strong> option in the template list.
 <br><br>
-<img src="../images/canva-step4.png" alt="Select Canva Template" style="max-width:100%;">
+<img class="zoom-img" src="../images/canva-step4.png" alt="Select Canva Template" style="max-width:100%;" onclick="openLB(this.src, this.alt)">
+<span class="zoom-hint">Click image to enlarge</span>
 </details>
 
 <details>
@@ -51,7 +87,8 @@ Click the <strong>Select Canva Design</strong> button. If this is your first tim
 <br><br>
 Give the message a <strong>Name</strong>, choose a <strong>Category</strong>, set the <strong>Duration</strong>, and click <strong>Save</strong>.
 <br><br>
-<img src="../images/canva-step5.png" alt="Select Canva Design" style="max-width:100%;">
+<img class="zoom-img" src="../images/canva-step5.png" alt="Select Canva Design" style="max-width:100%;" onclick="openLB(this.src, this.alt)">
+<span class="zoom-hint">Click image to enlarge</span>
 </details>
 
 ---
