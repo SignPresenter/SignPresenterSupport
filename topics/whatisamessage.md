@@ -32,3 +32,4 @@
 18. [Calander Upcoming](https://support.signpresenter.com/topics/add-google-calendar.html)
 19. [Calnder Current Event](https://support.signpresenter.com/topics/add-google-calendar.html)
 20. Video 4K (Upload same as Video with audio only use if you have a 4K stick and lots of storage!)
+21. [Canva](https://support.signpresenter.com/topics/canva.html) (Pull images directly from your Canva account — horizontal screens only, 1920x1080 minimum recommended)

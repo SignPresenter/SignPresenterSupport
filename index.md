@@ -33,6 +33,7 @@
 - [Expiring Playlists](topics/limitdates.md)
 - [Weather](topics/weather.md)
 - [Automatic feeds](topics/feeds.md)
+- [Connect Canva to SignPresenter](topics/canva.md)
 
 ### Common Problems
 - [I Can't preview videos On Signpresenter.com](topics/cantpreview.md)
