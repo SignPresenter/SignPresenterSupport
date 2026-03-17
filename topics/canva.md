@@ -81,13 +81,22 @@ Scroll down and click the <strong>Canva</strong> option in the template list.
 </details>
 
 <details>
-<summary><strong>Step 5 — Connect your account and choose a design</strong></summary>
+<summary><strong>Step 5 — Select Canva Design</strong></summary>
 <br>
-Click the <strong>Select Canva Design</strong> button. If this is your first time, you will be prompted to connect your Canva account — this only needs to be done once. After connecting, browse and select any design from your Canva library.
+Click the <strong>Select Canva Design</strong> button to open the Canva connection screen.
+<br><br>
+<img class="zoom-img" src="../images/canva-step5.png" alt="Select Canva Design" style="max-width:100%;" onclick="openLB(this.src, this.alt)">
+<span class="zoom-hint">Click image to enlarge</span>
+</details>
+
+<details>
+<summary><strong>Step 6 — Connect your Canva account</strong></summary>
+<br>
+If this is your first time, you will see a <strong>Connect Your Canva Account</strong> prompt. Click <strong>Connect to Canva</strong> — this is a one-time setup. After connecting, you can browse and select any design from your Canva library.
 <br><br>
 Give the message a <strong>Name</strong>, choose a <strong>Category</strong>, set the <strong>Duration</strong>, and click <strong>Save</strong>.
 <br><br>
-<img class="zoom-img" src="../images/canva-step5.png" alt="Select Canva Design" style="max-width:100%;" onclick="openLB(this.src, this.alt)">
+<img class="zoom-img" src="../images/canva-step6.png" alt="Connect Your Canva Account" style="max-width:100%;" onclick="openLB(this.src, this.alt)">
 <span class="zoom-hint">Click image to enlarge</span>
 </details>
 
