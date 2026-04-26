@@ -1,0 +1,24 @@
+{
+  "name": "signpresenter-docs-automation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Claude-powered documentation pipeline for SignPresenterSupport. Reads SignPresenterAdmin source code, identifies undocumented features, and generates task-oriented help articles.",
+  "scripts": {
+    "analyze": "tsx src/cli.ts analyze",
+    "generate": "tsx src/cli.ts generate",
+    "gap-report": "tsx src/cli.ts gap-report",
+    "templates": "tsx src/cli.ts templates"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "commander": "^13.1.0",
+    "glob": "^11.0.0",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.3"
+  }
+}
