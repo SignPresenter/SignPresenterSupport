@@ -170,14 +170,6 @@ export default function Home(): ReactNode {
           </div>
         </section>
 
-        <section className="admin-link-section">
-          <div className="container">
-            <Link to="/docs/admin/" className="admin-link">
-              <span>For administrators</span>
-              <span>&rarr;</span>
-            </Link>
-          </div>
-        </section>
       </main>
     </Layout>
   );

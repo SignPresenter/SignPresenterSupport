@@ -24,7 +24,8 @@ interface DocArticle {
 
 /**
  * Map a SignPresenterAdmin route to a documentation slug + title.
- * Slugs starting with "admin/" are gated behind the adminSidebar.
+ * Slugs starting with "internal-ops/" are gated behind the adminSidebar and
+ * are excluded from public search and search-engine indexing.
  */
 export const ROUTE_TO_DOC: Record<string, { slug: string; title: string; section: string; contextDocs?: string[] }> = {
   // User-facing
@@ -40,14 +41,14 @@ export const ROUTE_TO_DOC: Record<string, { slug: string; title: string; section
   "/settings/feeds": { slug: "feeds/index", title: "Subscribing to Feeds", section: "Feeds" },
   "/settings/feeds/:id": { slug: "feeds/feed-detail", title: "Feed Subscription Details", section: "Feeds" },
 
-  // Admin-gated → docs/admin/*
-  "/settings/templates": { slug: "admin/templates/index", title: "Custom Templates", section: "Admin", contextDocs: ["templates.md"] },
-  "/settings/templates/:id": { slug: "admin/templates/editing-a-template", title: "Editing a Custom Template", section: "Admin", contextDocs: ["templates.md"] },
-  "/settings/feedAdmin": { slug: "admin/feeds/index", title: "Public Feeds", section: "Admin", contextDocs: ["feeds.md"] },
-  "/settings/feedAdmin/:id": { slug: "admin/feeds/editing-a-feed", title: "Editing a Public Feed", section: "Admin", contextDocs: ["feeds.md"] },
-  "/settings/admin": { slug: "admin/admin-dashboard", title: "Admin Dashboard", section: "Admin" },
-  "/settings/affiliate": { slug: "admin/affiliate", title: "Affiliate & Commissions", section: "Admin" },
-  "/settings/affiliate/check/:id": { slug: "admin/commission-check", title: "Commission Check Detail", section: "Admin" },
+  // Internal-staff-gated → docs/internal-ops/*
+  "/settings/templates": { slug: "internal-ops/templates/index", title: "Custom Templates", section: "Admin", contextDocs: ["templates.md"] },
+  "/settings/templates/:id": { slug: "internal-ops/templates/editing-a-template", title: "Editing a Custom Template", section: "Admin", contextDocs: ["templates.md"] },
+  "/settings/feedAdmin": { slug: "internal-ops/feeds/index", title: "Public Feeds", section: "Admin", contextDocs: ["feeds.md"] },
+  "/settings/feedAdmin/:id": { slug: "internal-ops/feeds/editing-a-feed", title: "Editing a Public Feed", section: "Admin", contextDocs: ["feeds.md"] },
+  "/settings/admin": { slug: "internal-ops/admin-dashboard", title: "Admin Dashboard", section: "Admin" },
+  "/settings/affiliate": { slug: "internal-ops/affiliate", title: "Affiliate & Commissions", section: "Admin" },
+  "/settings/affiliate/check/:id": { slug: "internal-ops/commission-check", title: "Commission Check Detail", section: "Admin" },
 };
 
 function buildArticleList(featureMap: FeatureMap): DocArticle[] {
@@ -109,8 +110,8 @@ function buildPrompt(article: DocArticle, componentSource: string): string {
           ? "This page is **owner-only** — start the article with an admonition that says so."
           : "";
 
-  const adminSidebarFront = article.slug.startsWith("admin/")
-    ? "\n\nIMPORTANT: This article lives under /docs/admin/. The first line of the body (after the front matter) MUST be:\n```\n<span className=\"admin-badge\">Administrators only</span>\n```"
+  const adminSidebarFront = article.slug.startsWith("internal-ops/")
+    ? "\n\nIMPORTANT: This article lives under /docs/internal-ops/. The first line of the body (after the front matter) MUST be:\n```\n<span className=\"admin-badge\">Administrators only</span>\n```"
     : "";
 
   return `You are writing end-user documentation for SignPresenter (https://signpresenter.com), a digital signage platform that runs on Amazon Fire TV Sticks and Android devices.
@@ -191,7 +192,9 @@ export async function writeArticle(article: DocArticle, body: string): Promise<s
   await mkdir(dirname(filePath), { recursive: true });
 
   const titleEscaped = article.title.replace(/"/g, '\\"');
-  const frontMatter = article.slug.startsWith("admin/")
+  // noindex meta is injected at build time by the noindexInternalOpsPlugin
+  // in docusaurus.config.ts, so frontmatter only needs the sidebar binding.
+  const frontMatter = article.slug.startsWith("internal-ops/")
     ? `---\ntitle: "${titleEscaped}"\ndisplayed_sidebar: adminSidebar\n---\n\n`
     : `---\ntitle: "${titleEscaped}"\n---\n\n`;
   writeFileSync(filePath, frontMatter + body.trim() + "\n");

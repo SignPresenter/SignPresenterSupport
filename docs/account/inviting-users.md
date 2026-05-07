@@ -28,8 +28,8 @@ The role you grant during invite (or update afterward in the same panel) control
 |------|--------|
 | **User** (default) | Build messages, playlists, and screens within their department. Can't change billing or feed subscriptions. |
 | **Owner** | Everything a User can do, plus manage [billing](../billing/) and [feed subscriptions](../feeds/). |
-| **Creator** | Everything a User can do, plus create and manage [public feeds](../admin/feeds/) (publishing-side). |
-| **Admin** | Full access — including [custom templates](../admin/templates/) and the [admin dashboard](../admin/admin-dashboard). |
+| **Creator** | Everything a User can do, plus create and manage public feeds (publishing-side). |
+| **Admin** | Full access — including custom templates and the admin dashboard. |
 
 You can grant multiple roles to one user. Most accounts only need one or two admins.
 

@@ -39,12 +39,12 @@ Saves `output/gap-report.json`.
 
 ```bash
 ANTHROPIC_API_KEY=sk-... npm run generate           # all articles
-ANTHROPIC_API_KEY=sk-... npm run generate -- --slug admin/templates/index   # one article
+ANTHROPIC_API_KEY=sk-... npm run generate -- --slug internal-ops/templates/index   # one article
 npm run generate -- --dry-run                       # preview without calling the API
 npm run generate -- --model claude-opus-4-7         # override the model
 ```
 
-Each article is written to its mapped slug under `../docs/`. Articles whose slug starts with `admin/` get `displayed_sidebar: adminSidebar` in the front matter so they're hidden from the public sidebar.
+Each article is written to its mapped slug under `../docs/`. Articles whose slug starts with `internal-ops/` get `displayed_sidebar: adminSidebar` in the front matter, receive a `noindex,nofollow` meta tag injected at build time, are excluded from the local search index, and aren't linked from the public homepage or footer — so end users can't reach them by accident.
 
 The generator passes the matching `.claude/instructions/*.md` doc to Claude as additional product context (templates.md for template articles, feeds.md for feed articles, etc.) so generation isn't relying on the React component alone.
 
@@ -55,7 +55,7 @@ The analyzer infers the required permission from two signals:
 1. **Route prefix** — `/settings/templates`, `/settings/admin` are admin-only; `/settings/feedAdmin` and `/settings/affiliate` are creator-level; `/settings/billing` and `/settings/feeds` are owner-only.
 2. **Source code** — fallback grep for `UserHelper.checkAccess("admin"|"creator"|"owner")` in the component.
 
-Routes resolved to `admin` or `creator` are routed to `docs/admin/*` slugs, hidden from the public sidebar. `owner` routes stay in the public docs but get a callout admonition. `public` routes go to the user-guide tree.
+Routes resolved to `admin` or `creator` are routed to `docs/internal-ops/*` slugs, hidden from the public sidebar and excluded from search. `owner` routes stay in the public docs but get a callout admonition. `public` routes go to the user-guide tree.
 
 ## Customizing the route → slug map
 

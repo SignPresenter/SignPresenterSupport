@@ -51,4 +51,3 @@ Cancelling immediately stops new content from arriving. Existing playlist refere
 - [Billing & Payment](../billing/) — see your feed charges and trial status
 - [Lessons.church](../integrations/lessons-church) — the most-used feed for churches
 - [ChiroThinTV setup](../screens/chirothintv) — the chiropractic-clinic feed
-- Are you a content provider who wants to publish a feed? See the [administrator guide](../admin/).

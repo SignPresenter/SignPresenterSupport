@@ -27,5 +27,3 @@ If you're brand new, follow [Getting Started](./getting-started/) end-to-end. Ot
 - 📞 Call or text **918-994-2638**
 - ✉️ Email [support@signpresenter.com](mailto:support@signpresenter.com)
 - 📅 [Schedule a 15-minute screen-share demo](https://calendly.com/mike-1021/15-min-screen-share-demo-of-sign-presenter)
-
-Are you an account administrator setting up custom templates, public feeds, or affiliate billing? See the [administrator guide](./admin/).

@@ -48,4 +48,3 @@ If a section isn't visible to you, you don't have access to it. Ask the account 
 - [Multiple Campuses & Departments](./departments)
 - [Billing & Payment](../billing/) (owner-only)
 - [Subscribing to Feeds](../feeds/) (owner-only)
-- [Administrator Guide](../admin/) (admin-only)
