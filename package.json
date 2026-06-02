@@ -2,7 +2,9 @@
   "name": "signpresenter-support",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "yarn@4.15.0",
   "scripts": {
+    "preinstall": "node -e \"if(!(process.env.npm_config_user_agent||'').startsWith('yarn')){console.error('\\n[SignPresenterSupport] This project uses Yarn (Berry). Run \\'yarn install\\' instead of npm/pnpm.\\n');process.exit(1)}\"",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
@@ -47,6 +49,9 @@
     "node": ">=20.0"
   },
   "overrides": {
+    "webpack": "5.99.9"
+  },
+  "resolutions": {
     "webpack": "5.99.9"
   }
 }
