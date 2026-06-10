@@ -43,3 +43,5 @@ yarn-error.log*
 scripts/output
 scripts/node_modules
 config.bat
+
+scripts/.yarn/
