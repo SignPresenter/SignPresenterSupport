@@ -378,6 +378,10 @@
   background: #0F1620;
 }
 
+.navbar__logo {
+  height: 2.5rem;
+}
+
 .navbar__title {
   font-weight: 700;
   font-size: 1.1rem;

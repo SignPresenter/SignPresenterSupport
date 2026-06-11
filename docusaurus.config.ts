@@ -191,10 +191,11 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'SignPresenter Support',
+      title: 'Support',
       logo: {
         alt: 'SignPresenter',
         src: 'img/logo.png',
+        srcDark: 'img/logo-light.png',
       },
       items: [
         {
