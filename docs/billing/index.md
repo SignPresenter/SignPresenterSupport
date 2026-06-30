@@ -41,6 +41,18 @@ To cancel completely: **Settings → Billing → Cancel All Subscriptions**.
 
 Log in to SignPresenter, click your name in the top right, go to **Settings → Billing**, choose the month, and click **Print** to save as PDF.
 
+## Get receipts emailed automatically
+
+Don't want to log in every month? You can have SignPresenter **email your payment receipt automatically** each time you're billed.
+
+1. Click your name in the top-right corner and go to **Settings**.
+2. On the Settings page, scroll down to the **Preferences** section.
+3. Check **Send payment receipts via email** and save your settings.
+
+![Send payment receipts via email checkbox](/img/billing-email-receipts.png)
+
+Receipts are sent to the account's sign-in email address (shown in the **Email** field on the same page). You can still download a full invoice any time from **Settings → Billing** using the steps above.
+
 ## Related
 
 - [FAQ](../faq) — common pricing and billing questions

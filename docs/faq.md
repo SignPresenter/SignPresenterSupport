@@ -132,6 +132,13 @@ Yes. Log in, click your company name in the top-right, go to **Settings → Bill
 </details>
 
 <details>
+<summary><strong>Can I get my receipts emailed automatically?</strong></summary>
+
+Yes. Click your name in the top-right, go to **Settings**, scroll to **Preferences**, and check **Send payment receipts via email**. After that, a receipt is emailed to your account's sign-in address each time you're billed. See [Billing & Payment](./billing/) for details.
+
+</details>
+
+<details>
 <summary><strong>How do I update my payment method?</strong></summary>
 
 Click your name in the top-right, **Settings → Billing**, enter your new credit card, click **Save**. See [Update Billing Info](./billing/updating-billing-info) for screenshots.
