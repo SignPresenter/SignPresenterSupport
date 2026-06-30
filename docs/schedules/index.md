@@ -49,5 +49,6 @@ That's four schedules on one screen.
 ## Related
 
 - [Screen Settings](../screens/screen-settings) — where schedules attach
+- [Overlays](../screens/overlays) — add a marquee, logo, or clock to a schedule
 - [Building a playlist](../playlists/) — what schedules play
 - [Expiring playlists](../playlists/expiring-playlists) — an alternative approach using start/end dates on the playlist itself

@@ -34,7 +34,7 @@ SignPresenter ships three overlays you can use without authoring your own:
 | 6 | Logo | `{logo}` (image URL) | corner |
 | 44 | Digital Clock | (no variables — auto-formats) | corner |
 
-Add an overlay to a screen by editing the screen and choosing it from the **Overlay** dropdown. Most screens use one or zero overlays at a time; layering multiple is technically allowed but rarely useful.
+End users add an overlay inside the **schedule editor** (Step 3: Screens → select a screen → edit a schedule → **Overlays** section), choosing the **Type**, **Position**, and **Message**. Each schedule uses one or zero overlays. For the user-facing walkthrough, see [Overlays](../../screens/overlays).
 
 ## Authoring a custom overlay
 

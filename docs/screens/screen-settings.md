@@ -51,6 +51,12 @@ Click **Add Schedule** to create one. Set the days, times, and playlist, then **
 Use **weights** when a schedule has more than one playlist — a 70/30 weighting means the first plays 70% of the time, the second 30%. Weights must sum to 100%.
 :::
 
+## Overlays
+
+Inside the schedule editor, below the playlists, is the **Overlays** section. This is where you add a scrolling **marquee**, a corner **logo**, or a live **clock** on top of whatever the schedule is playing. Pick a **Type**, set its **Position**, type your **Message** (for a marquee), click **Update Overlay**, then **Save**.
+
+See [Overlays](./overlays) for the full walkthrough.
+
 ## Related
 
 - [Screens & Devices overview](./)

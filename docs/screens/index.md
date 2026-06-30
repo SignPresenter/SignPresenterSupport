@@ -16,6 +16,7 @@ A **screen** in SignPresenter is the hardware running your signage — a Fire TV
 - **[Compatible Devices](./compatible-devices)** — what to buy (and what to avoid)
 - **[Vertical Setup](./vertical-setup)** — rotate to portrait in under 30 seconds
 - **[Screen Modes](./screen-modes)** — Digital Signage vs Slideshow vs Both
+- **[Overlays](./overlays)** — add a scrolling marquee, corner logo, or live clock
 - **[Soundboard / Pro Audio](./soundboard)** — splitting audio out to a sound system
 - **[Running Offline](./running-offline)** — keep showing content with no internet
 - **[Older Fire Sticks](./older-firesticks)** — issues and workarounds with legacy hardware

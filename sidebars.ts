@@ -46,6 +46,7 @@ const sidebars: SidebarsConfig = {
       link: { type: 'doc', id: 'screens/index' },
       items: [
         'screens/screen-settings',
+        'screens/overlays',
         'screens/compatible-devices',
         'screens/vertical-setup',
         'screens/screen-modes',
