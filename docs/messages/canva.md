@@ -15,7 +15,7 @@ SignPresenter pulls designs straight out of your Canva account — no exporting,
 <h4>Before you start</h4>
 
 - Canva integration currently supports **horizontal (16:9) screens only**. Vertical support is coming.
-- Canva pulls in **images** only at this time (not videos or animations).
+- Canva pulls in both **images and videos** — designs with video or animation come through as video.
 - Start your Canva designs at **at least 1920 × 1080 pixels** so they look sharp on TV.
 
 </div>
