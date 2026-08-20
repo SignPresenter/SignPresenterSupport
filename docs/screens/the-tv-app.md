@@ -28,18 +28,17 @@ What you see when the screen is set to **Digital Signage** mode (the default). M
 
 What you see when the screen is set to **Slideshow** or **Both** mode. Slides advance only when you press the remote. Use this for in-person presentations or anywhere a person wants to drive the pace.
 
-To switch between Run Schedule and Manual Playlist on a **Both**-mode screen, press the **Back** button on the remote.
+To switch between Run Schedule and Manual Playlist on a **Both**-mode screen, press the **Back** button on the remote to open the app menu, then select **Run Schedule** or the playlist you want.
 
 ## Remote control basics
 
 | Button | What it does |
 |--------|--------------|
 | **Home** | Exits SignPresenter to the Fire Stick / Android home screen |
-| **Back** | On a **Both** screen, toggles between Run Schedule and Manual Playlist. On Manual Playlist, returns to the menu. |
+| **Back** | Opens the app menu — playlist selection, Unpair Screen, Clear Cache, Exit Player |
 | **Left / Right** | On Manual Playlist, navigates between slides |
 | **Up** | On Manual Playlist, shows all slides at once for quick selection |
 | **OK / Center** | Selects a slide or confirms an action |
-| **Menu (☰)** | Opens device-level settings (cache, network, etc.) |
 
 ## Switching modes mid-flight
 
@@ -49,7 +48,11 @@ If you want the change to take effect immediately, press **Home** on the remote 
 
 ## What about the menu?
 
-If you press the **menu button** (the one with three lines) while the app is running, you'll see device-level info — cache size, network status, app version, and a **Clear Cache** button. Don't clear the cache unless you're troubleshooting; doing so forces the TV to re-download every message.
+Press the **Back** button while the app is running to open the app menu. From here you can pick a playlist (or **Run Schedule**), and the right-hand menu gives you **Unpair Screen**, **Clear Cache**, and **Exit Player**. The bottom corner shows device-level info — screen name, app version, and free/used storage space.
+
+![The app menu](/img/player-menu-clear-cache.png)
+
+Don't clear the cache unless you're troubleshooting; doing so forces the TV to re-download every message.
 
 ## Related
 

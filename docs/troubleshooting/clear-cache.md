@@ -17,35 +17,20 @@ Sometimes content doesn't download cleanly. Clearing the cache deletes anything 
 
 ## Clear the cache on a Fire Stick
 
-1. If SignPresenter is open, press **Home** on the remote.
+Clear Cache is built right into the SignPresenter app menu — no need to dig through the Fire Stick settings anymore.
 
-   ![Home button](https://user-images.githubusercontent.com/65249159/153667920-7bac9a0e-ca40-4293-9a8d-385f121d0925.png)
+1. While SignPresenter is running, press **Back** on the remote to open the app menu.
+2. Select **Clear Cache** in the right-hand menu.
 
-2. Click **Settings**.
+   ![Clear Cache in the app menu](/img/player-menu-clear-cache.png)
 
-   ![Settings](https://user-images.githubusercontent.com/65249159/153668202-0f258b73-c8dc-4219-82dc-2103ef3cd25d.png)
+3. Select your playlist (or **Run Schedule**) to start playing again.
 
-3. Click **Applications**.
+SignPresenter will re-download all your content. This same menu also shows the screen name, app version, and free/used storage space — handy if support asks for them.
 
-   ![Applications](https://user-images.githubusercontent.com/65249159/153668426-8ec06d59-ca6c-4142-af97-a5d9397e234e.png)
-
-4. Select **Manage Installed Applications**.
-
-   ![Manage Installed](https://user-images.githubusercontent.com/65249159/153668681-1962d583-bfbb-413c-b83b-99fb3a317268.png)
-
-5. Scroll close to the bottom and click **Sign Presenter**.
-
-   ![Select Sign Presenter](https://user-images.githubusercontent.com/65249159/153668871-f4966fae-99bc-4c6c-8e6f-6016b3b6daba.png)
-
-6. Scroll to the bottom and select **Clear cache**.
-
-   ![Clear cache](https://user-images.githubusercontent.com/65249159/153669060-b5a79048-b901-4471-9f1b-0197d2298b2c.png)
-
-7. Scroll back up and select **Launch Application**.
-
-   ![Launch app](https://user-images.githubusercontent.com/65249159/153669419-cbf096e1-4a22-4edc-830a-6dec1b9c0535.png)
-
-SignPresenter will re-download all your content.
+:::note Older app versions
+If you don't see the menu, you're on an older build. Update the app, or clear the cache the old way: press **Home**, then go to **Settings → Applications → Manage Installed Applications → Sign Presenter → Clear cache**, then relaunch the app.
+:::
 
 ## Clear the cache in Google Chrome
 
