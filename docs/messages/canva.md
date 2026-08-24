@@ -14,9 +14,9 @@ SignPresenter pulls designs straight out of your Canva account — no exporting,
 <div className="prereqs">
 <h4>Before you start</h4>
 
-- Canva integration currently supports **horizontal (16:9) screens only**. Vertical support is coming.
+- Canva works with both **horizontal (16:9)** and **vertical (9:16)** screens.
 - Canva pulls in both **images and videos** — designs with video or animation come through as video.
-- Start your Canva designs at **at least 1920 × 1080 pixels** so they look sharp on TV.
+- Start your Canva designs at **at least 1920 × 1080 pixels** (or 1080 × 1920 for vertical) so they look sharp on TV.
 
 </div>
 
@@ -28,9 +28,9 @@ Click **Step 1: My Content** at the top of the screen, then click the green **+*
 
 ![Go to My Content](/img/canva-step1.png)
 
-## Step 2 — Select the Horizontal layout
+## Step 2 — Select your screen layout
 
-Choose **Horizontal 16:9** for your screen layout.
+Choose **Horizontal 16:9** or **Vertical 9:16**, whichever matches your screen.
 
 ![Select Horizontal Layout](/img/canva-step2.png)
 
@@ -56,10 +56,10 @@ Give the message a **Name**, choose a **Category**, set the **Duration**, and cl
 
 ## You're done
 
-Your Canva design is now available to add to any horizontal playlist.
+Your Canva design is now available to add to any playlist.
 
 :::tip
-Update a design in Canva and SignPresenter pulls the new version automatically — no need to re-export or re-upload.
+Updated a design in Canva? Open the message in SignPresenter, click **Select Canva Design**, and pick the design again — the latest version comes right in. No exporting or re-uploading needed.
 :::
 
 ## Related
