@@ -17,10 +17,15 @@ SignPresenter is compatible with:
 - Most **Android devices** running **Android 10.0 or newer**
 - **Fire TVs** with built-in Fire OS
 
+:::warning Fire Stick availability — August 2026
+Amazon is currently **out of stock** of the Fire TV Sticks that work with SignPresenter, and the newest Fire Stick models run Vega OS, which isn't supported yet — **we're working on a new app for the new Fire Sticks now**. In the meantime, the best options are the [Fire TV Stick HD at Best Buy](https://www.bestbuy.com/product/amazon-fire-tv-stick-1st-gen-hd-streaming-device-free-and-live-tv-alexa-voice-remote-smart-home-controls-8gb-2024-black/J39TLSQHL6) or the [onn. streaming devices from Walmart](#tested-low-cost-android-devices).
+:::
+
 ## 🔥 Recommended Fire TV Sticks
 
 ### Best for digital signage — [Fire TV Stick HD](https://www.amazon.com/dp/B0CQMRKRV5)
 
+- **Out of stock on Amazon** — [buy it at Best Buy](https://www.bestbuy.com/product/amazon-fire-tv-stick-1st-gen-hd-streaming-device-free-and-live-tv-alexa-voice-remote-smart-home-controls-8gb-2024-black/J39TLSQHL6)
 - Most affordable Fire Stick that works with SignPresenter
 - 8 GB storage, 1080p HD streaming
 - Includes TV power and volume controls
