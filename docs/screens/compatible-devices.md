@@ -18,7 +18,7 @@ SignPresenter is compatible with:
 - **Fire TVs** with built-in Fire OS
 
 :::warning Fire Stick availability — August 2026
-Amazon is currently **out of stock** of the Fire TV Sticks that work with SignPresenter, and the newest Fire Stick models run Vega OS, which isn't supported yet — **we're working on a new app for the new Fire Sticks now**. In the meantime, the best options are the [Fire TV Stick HD at Best Buy](https://www.bestbuy.com/product/amazon-fire-tv-stick-1st-gen-hd-streaming-device-free-and-live-tv-alexa-voice-remote-smart-home-controls-8gb-2024-black/J39TLSQHL6) or the [onn. streaming devices from Walmart](#tested-low-cost-android-devices).
+Amazon is currently **out of stock** of the Fire TV Sticks that work with SignPresenter, and the newest Fire Stick models run Vega OS, which isn't supported yet — **we're working on a new app for the new Fire Sticks now**. In the meantime, the best options are the [Fire TV Stick HD at Best Buy](https://www.bestbuy.com/product/amazon-fire-tv-stick-1st-gen-hd-streaming-device-free-and-live-tv-alexa-voice-remote-smart-home-controls-8gb-2024-black/J39TLSQHL6) or the [$29.98 onn. Full HD Streaming Device from Walmart](https://www.walmart.com/ip/onn-Google-TV-Full-HD-Streaming-Device-New-2023/2262757145?classType=REGULAR&athbdg=L1200&from=/search).
 :::
 
 ## 🔥 Recommended Fire TV Sticks
@@ -72,8 +72,8 @@ SignPresenter supports Android devices running **Android 10.0 or newer**. [Downl
 
 ### Tested low-cost Android devices
 
-- [$19.88 onn. Android TV 4K UHD Streaming Device](https://www.walmart.com/ip/onn-Google-TV-4K-Streaming-Box-New-2023-4K-UHD-Resolution/2835618394?adsRedirect=true)
-- [$34.88 onn. Google TV 4K Plus Streaming Device](https://www.walmart.com/ip/ONN-4K-PLUS/15557424949?adsRedirect=true)
+- [$29.98 onn. Full HD Streaming Device, Google TV](https://www.walmart.com/ip/onn-Google-TV-Full-HD-Streaming-Device-New-2023/2262757145?classType=REGULAR&athbdg=L1200&from=/search) — fast streaming, 8 GB storage, 1.5 GB RAM
+- [$49.99 onn. 4K Plus Streaming Device, Google TV](https://www.walmart.com/ip/ONN-4K-PLUS/15557424949?classType=REGULAR&athbdg=L1102&from=/search) — ultra-fast streaming, stunning 4K UHD, 16 GB storage, 2 GB RAM
 
 ## ✅ How to confirm compatibility
 
