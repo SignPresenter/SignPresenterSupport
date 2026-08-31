@@ -9,7 +9,7 @@ cd scripts
 npm install
 ```
 
-The pipeline expects the SignPresenter monorepo layout — `SignPresenterAdmin/` and `SignPresenterSupport/` as siblings — and reads the `.claude/instructions/` reference docs (templates.md, feeds.md, architecture.md) from the workspace root.
+The pipeline expects the SignPresenter monorepo layout — `SignPresenterAdmin/` and `SignPresenterSupport/` as siblings — and reads the `D:\code\agents\SignPresenter\.claude\instructions\` reference docs (templates.md, feeds.md, architecture.md).
 
 ## Commands
 
@@ -46,7 +46,7 @@ npm run generate -- --model claude-opus-4-7         # override the model
 
 Each article is written to its mapped slug under `../docs/`. Articles whose slug starts with `internal-ops/` get `displayed_sidebar: adminSidebar` in the front matter, receive a `noindex,nofollow` meta tag injected at build time, are excluded from the local search index, and aren't linked from the public homepage or footer — so end users can't reach them by accident.
 
-The generator passes the matching `.claude/instructions/*.md` doc to Claude as additional product context (templates.md for template articles, feeds.md for feed articles, etc.) so generation isn't relying on the React component alone.
+The generator passes the matching `D:\code\agents\SignPresenter\.claude\instructions\*.md` doc to Claude as additional product context (templates.md for template articles, feeds.md for feed articles, etc.) so generation isn't relying on the React component alone.
 
 ## Permission detection
 
@@ -66,7 +66,7 @@ Edit `ROUTE_TO_DOC` in `src/generator.ts`. Each entry takes:
   slug: "billing/index",      // path under docs/
   title: "Billing & Payment",  // article title
   section: "Billing",          // sidebar section label
-  contextDocs: ["feeds.md"]    // optional: extra .claude/instructions/ files to include in prompt
+  contextDocs: ["feeds.md"]    // optional: extra D:\code\agents\SignPresenter\.claude\instructions\ files to include in prompt
 },
 ```
 
