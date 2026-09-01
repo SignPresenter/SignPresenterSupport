@@ -9,7 +9,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // scripts/src/generator.ts → ../../docs
 export const DOCS_DIR = resolve(__dirname, "..", "..", "docs");
-export const INSTRUCTIONS_DIR = resolve("D:/code/agents/SignPresenter/.claude/instructions");
+export const INSTRUCTIONS_DIR = resolve(__dirname, "..", "..", "..", ".claude", "instructions");
 
 interface DocArticle {
   slug: string;
@@ -19,7 +19,7 @@ interface DocArticle {
   routePath: string;
   componentFile: string;
   analysis: ComponentAnalysis | null;
-  contextDocs: string[]; // file names in D:\code\agents\SignPresenter\.claude\instructions\ to include as additional context
+  contextDocs: string[]; // file names in .claude/instructions/ to include as additional context
 }
 
 /**
