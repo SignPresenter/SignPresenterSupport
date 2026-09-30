@@ -7,9 +7,15 @@ description: Switch your Amazon Fire TV's country setting to install SignPresent
 
 <div className="article-intro">
 
-SignPresenter is available worldwide, but the Fire TV app is published in the US Amazon store. If you're outside the USA you may need to switch your Amazon account's country to install it. The steps below walk you through it.
+SignPresenter is available worldwide. If you're outside the USA, the easiest option is the **Google TV Streamer** — it runs Android and installs SignPresenter directly from Google Play with no workarounds needed. If you're using a Fire TV device, you may need to switch your Amazon account's country first; the steps below walk you through it.
 
 </div>
+
+## Easiest option: use an Android device
+
+The [**Google TV Streamer**](https://store.google.com/us/product/google_tv_streamer) is available internationally and runs Google TV (Android-based). Install SignPresenter from the [Google Play Store](https://play.google.com/store/apps/details?id=com.signpresenter.screen&pcampaignid=web_share) — no country switching required.
+
+## Using a Fire TV device outside the USA
 
 <div className="prereqs">
 <h4>Before you start</h4>

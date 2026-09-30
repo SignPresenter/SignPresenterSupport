@@ -51,9 +51,9 @@ Amazon Fire TV Sticks running Fire OS (Android-based) and Android devices runnin
 </details>
 
 <details>
-<summary><strong>What Fire Stick should I get?</strong></summary>
+<summary><strong>What device should I get?</strong></summary>
 
-We recommend the [Fire TV Stick HD](https://www.amazon.com/dp/B0CQMRKRV5) for the best value — most affordable, auto-reboots after power loss, perfect for 24/7 signage.
+We recommend the [onn. Full HD Streaming Device ($29.98 at Walmart)](https://www.walmart.com/ip/onn-Google-TV-Full-HD-Streaming-Device-New-2023/2262757145?classType=REGULAR&athbdg=L1200&from=/search) for the best value. Most current Fire TV Sticks now run Vega OS, which is not compatible with SignPresenter — avoid them. See [Compatible Devices](./screens/compatible-devices) for the full breakdown.
 
 </details>
 

@@ -55,7 +55,7 @@ Your playlist is now ready to display on your screen.
 
 ### Choose your device
 
-The easiest option for most users is the [**Fire TV Stick HD**](https://www.amazon.com/dp/B0CQMRKRV5) ($24.99). You can also use any Android device running 10.0 or newer.
+The easiest option for most users is the [**onn. Full HD Streaming Device**](https://www.walmart.com/ip/onn-Google-TV-Full-HD-Streaming-Device-New-2023/2262757145?classType=REGULAR&athbdg=L1200&from=/search) ($29.98 at Walmart). You can also use any Android device running 10.0 or newer. **Note:** Most current Fire TV Sticks run Vega OS and are not compatible — see [Compatible Devices](../screens/compatible-devices) before buying.
 
 [See all compatible devices →](../screens/compatible-devices)
 

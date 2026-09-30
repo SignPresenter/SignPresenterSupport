@@ -1,63 +1,51 @@
 ---
 title: Compatible Devices
-description: Which Fire TVs, Fire Sticks, and Android devices SignPresenter supports — and which to avoid.
+description: Which Android devices and Fire TVs SignPresenter supports — and which to avoid.
 ---
 
 # Compatible Devices
 
 <div className="article-intro">
 
-SignPresenter runs on Fire TV devices and Android-based streaming boxes. Most modern hardware is supported, but a couple of specific models do **not** work — read this before you buy.
+SignPresenter runs on Android-based streaming devices and Fire TVs with built-in Fire OS. Read this before you buy — most new Fire Sticks do **not** work.
 
 </div>
 
 SignPresenter is compatible with:
 
-- **Amazon Fire TV Sticks** running **Fire OS** (Android-based)
-- Most **Android devices** running **Android 10.0 or newer**
-- **Fire TVs** with built-in Fire OS
+- **Android devices** running **Android 10.0 or newer**
+- **Fire TVs** with built-in Fire OS (Android-based)
+- **Older Amazon Fire TV Sticks** running **Fire OS** (Android-based)
 
-:::warning Fire Stick availability — August 2026
-Amazon is currently **out of stock** of the Fire TV Sticks that work with SignPresenter, and the newest Fire Stick models run Vega OS, which isn't supported yet — **we're working on a new app for the new Fire Sticks now**. In the meantime, the best options are the [Fire TV Stick HD at Best Buy](https://www.bestbuy.com/product/amazon-fire-tv-stick-1st-gen-hd-streaming-device-free-and-live-tv-alexa-voice-remote-smart-home-controls-8gb-2024-black/J39TLSQHL6) or the [$29.98 onn. Full HD Streaming Device from Walmart](https://www.walmart.com/ip/onn-Google-TV-Full-HD-Streaming-Device-New-2023/2262757145?classType=REGULAR&athbdg=L1200&from=/search).
+:::warning New Fire Sticks don't work — use onn. instead
+Most current Fire TV Sticks now run **Vega OS**, which is not compatible with SignPresenter. **We recommend the onn. devices from Walmart** as the best replacement — they're affordable, widely available, and work great.
 :::
 
-## 🔥 Recommended Fire TV Sticks
+## ✅ Recommended devices
 
-### Best for digital signage — [Fire TV Stick HD](https://www.amazon.com/dp/B0CQMRKRV5)
+### Best value — [onn. Full HD Streaming Device, Google TV ($29.98)](https://www.walmart.com/ip/onn-Google-TV-Full-HD-Streaming-Device-New-2023/2262757145?classType=REGULAR&athbdg=L1200&from=/search)
 
-- **Out of stock on Amazon** — [buy it at Best Buy](https://www.bestbuy.com/product/amazon-fire-tv-stick-1st-gen-hd-streaming-device-free-and-live-tv-alexa-voice-remote-smart-home-controls-8gb-2024-black/J39TLSQHL6)
-- Most affordable Fire Stick that works with SignPresenter
-- 8 GB storage, 1080p HD streaming
-- Includes TV power and volume controls
-- **Auto-reboots after power loss** — ideal for 24/7 signage
-- Runs Fire OS (Android-based)
+- Available at Walmart
+- Fast streaming, 8 GB storage, 1.5 GB RAM
+- Runs Android — fully compatible with SignPresenter
 
-### Best 4K option — [Fire TV Stick 4K](https://www.amazon.com/dp/B0CJM1GNFQ)
+### Best performance — [onn. 4K Plus Streaming Device, Google TV ($49.99)](https://www.walmart.com/ip/ONN-4K-PLUS/15557424949?classType=REGULAR&athbdg=L1102&from=/search)
 
-- 4K Ultra HD with Dolby Vision and HDR10+
-- Wi-Fi 6 support
-- 8 GB storage
-- Runs Fire OS
+- Available at Walmart
+- Ultra-fast streaming, 4K UHD, 16 GB storage, 2 GB RAM
+- Runs Android — fully compatible with SignPresenter
 
-:::note
-Fire OS 8 (on the 4K models) disables auto-reboot. After a power loss, the app needs to be relaunched manually unless you keep the device on a UPS.
-:::
+SignPresenter supports any Android device running **Android 10.0 or newer**. [Download from Google Play](https://play.google.com/store/apps/details?id=com.signpresenter.screen&pcampaignid=web_share).
 
-### Best performance — [Fire TV Stick 4K Max](https://amzn.to/3GYx1rd)
+### Best option outside the USA — [Google TV Streamer](https://store.google.com/us/product/google_tv_streamer)
 
-- High-resolution support
-- Wi-Fi 6E, 16 GB storage, faster processor
-- Same Fire OS 8 caveat as the 4K Stick (manual relaunch after power loss)
-
-## ⚠️ Important: Fire TV Stick 4K Select is NOT compatible
-
-<img src="/img/61x3MQufBOL._AC_SL1500_.jpg" alt="Fire TV Stick 4K Select - Do Not Buy" width="200" />
-
-**Do not purchase the Fire TV Stick 4K Select.** This device runs Amazon's new **Vega OS** (Linux-based) instead of Fire OS (Android-based). SignPresenter will **not** work on Vega OS devices.
+- Available internationally
+- Runs Google TV (Android-based) — install SignPresenter directly from Google Play, no country workarounds needed
+- 4K HDR streaming, fast processor
 
 ## 🖥️ TVs with built-in Fire TV
 
-TVs with built-in Fire OS work great for 24/7 digital signage. Examples:
+TVs with built-in Fire OS (not Vega OS) work great for 24/7 digital signage. Examples:
 
 - [Amazon Fire TV 43" 4-Series 4K UHD](https://a.co/d/0GxeFdQ)
 - [Insignia 50" Class F30 4K UHD](https://amzn.to/3ArFn7x)
@@ -66,14 +54,9 @@ TVs with built-in Fire OS work great for 24/7 digital signage. Examples:
 - [TOSHIBA 50" Class C350 Series](https://a.co/d/3VjpodS)
 - [Insignia 50-inch Class F50 Series](https://a.co/d/cxVXcNy)
 
-## 🤖 Android devices
+## ⚠️ Fire TV Sticks — most new models don't work
 
-SignPresenter supports Android devices running **Android 10.0 or newer**. [Download from Google Play](https://play.google.com/store/apps/details?id=com.signpresenter.screen&pcampaignid=web_share).
-
-### Tested low-cost Android devices
-
-- [$29.98 onn. Full HD Streaming Device, Google TV](https://www.walmart.com/ip/onn-Google-TV-Full-HD-Streaming-Device-New-2023/2262757145?classType=REGULAR&athbdg=L1200&from=/search) — fast streaming, 8 GB storage, 1.5 GB RAM
-- [$49.99 onn. 4K Plus Streaming Device, Google TV](https://www.walmart.com/ip/ONN-4K-PLUS/15557424949?classType=REGULAR&athbdg=L1102&from=/search) — ultra-fast streaming, stunning 4K UHD, 16 GB storage, 2 GB RAM
+Most Fire TV Sticks currently sold run **Vega OS** (Linux-based), which is **not compatible** with SignPresenter. If you already own an older Fire Stick running **Fire OS** (Android-based), it will continue to work — but we do not recommend purchasing a new Fire Stick at this time.
 
 ## ✅ How to confirm compatibility
 
