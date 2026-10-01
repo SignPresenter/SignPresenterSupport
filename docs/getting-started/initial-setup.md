@@ -64,7 +64,7 @@ The easiest option for most users is the [**onn. Full HD Streaming Device**](htt
 **Option 1: Install from your device**
 
 1. Plug your device into your TV and complete initial setup (WiFi, account login, software updates)
-2. Click the **Search** icon and type "Sign Presenter"
+2. Click the **Search** icon and type "SignPresenter"
 3. Download and install the app
 
 **Option 2: Install from your browser**

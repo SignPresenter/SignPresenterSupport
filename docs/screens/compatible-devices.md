@@ -12,7 +12,7 @@ SignPresenter works on Android devices, Fire TV devices, and many smart TVs. Not
 </div>
 
 :::tip The easiest compatibility check
-**Search for "Sign Presenter" in your device's app store.** If it shows up, it works — this includes many smart TVs with Google Play or Fire OS built in.
+**Search for "SignPresenter" in your device's app store.** If it shows up, it works — this includes many smart TVs with Google Play or Fire OS built in.
 :::
 
 ---

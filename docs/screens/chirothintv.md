@@ -44,7 +44,7 @@ Not every Fire Stick is compatible. See the [device compatibility guide](./compa
 ### Install steps
 
 1. Set up your Fire Stick: plug in, sign into your Amazon account, complete software updates.
-2. Hold the microphone button on the remote and say "Sign Presenter".
+2. Hold the microphone button on the remote and say "SignPresenter".
 3. Select the SignPresenter app and click **Download**.
 4. Open SignPresenter from your home screen.
 

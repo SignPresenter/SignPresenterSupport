@@ -67,7 +67,7 @@ If your TV has an HDMI input, yes. The Fire TV Stick does all the work — you d
 <details>
 <summary><strong>How do I install the app?</strong></summary>
 
-Search "Sign Presenter" on your Fire TV or Android device, install it, then enter the 4-digit pairing code shown on your screen in your SignPresenter account. The [setup guide](./getting-started/initial-setup) has detailed instructions.
+Search "SignPresenter" on your Fire TV or Android device, install it, then enter the 4-digit pairing code shown on your screen in your SignPresenter account. The [setup guide](./getting-started/initial-setup) has detailed instructions.
 
 </details>
 
