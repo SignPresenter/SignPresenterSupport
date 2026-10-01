@@ -39,9 +39,9 @@ The better choice if you're playing curriculum videos or need extra performance.
 
 ---
 
-## Works with any Android 11+ device
+## Works with any Android 10+ device
 
-SignPresenter works on any Android device running **Android 11.0 or newer**, including phones, tablets, and streaming boxes. [Download from Google Play](https://play.google.com/store/apps/details?id=com.signpresenter.screen&pcampaignid=web_share).
+SignPresenter works on any Android device running **Android 10.0 or newer**, including phones, tablets, and streaming boxes. [Download from Google Play](https://play.google.com/store/apps/details?id=com.signpresenter.screen&pcampaignid=web_share).
 
 This includes many **smart TVs** with Google Play or Fire OS built in — just search for Sign Presenter in your TV's app store.
 

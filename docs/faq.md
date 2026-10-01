@@ -46,7 +46,7 @@ Yes — 30 days, no credit card required. Try every feature risk-free.
 <details>
 <summary><strong>What devices work with SignPresenter?</strong></summary>
 
-Amazon Fire TV Sticks running Fire OS (Android-based) and Android devices running Android 11.0 or newer. See the [complete device compatibility guide](./screens/compatible-devices) for recommendations.
+Amazon Fire TV Sticks running Fire OS (Android-based) and Android devices running Android 10.0 or newer. See the [complete device compatibility guide](./screens/compatible-devices) for recommendations.
 
 </details>
 
