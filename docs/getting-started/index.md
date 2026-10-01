@@ -14,7 +14,7 @@ Three steps from zero to "my screens are showing my content": create your first 
 ## What you need
 
 - A free SignPresenter account at [signpresenter.com](https://signpresenter.com)
-- An Android device running Android 10+ such as the [onn. Full HD Streaming Device](https://www.walmart.com/ip/onn-Google-TV-Full-HD-Streaming-Device-New-2023/2262757145?classType=REGULAR&athbdg=L1200&from=/search) — see [Compatible Devices](../screens/compatible-devices) before buying a Fire Stick
+- An Android device running Android 11+ such as the [onn. Full HD Streaming Device](https://www.walmart.com/ip/onn-Google-TV-Full-HD-Streaming-Device-New-2023/2262757145?classType=REGULAR&athbdg=L1200&from=/search) — see [Compatible Devices](../screens/compatible-devices) before buying a Fire Stick
 - A TV with an HDMI input
 
 ## Start here

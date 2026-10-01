@@ -33,7 +33,7 @@ ChiroThinTV is a chiropractic-focused content feed for SignPresenter. This guide
 
 ### Device requirements
 
-SignPresenter works on Fire Sticks running **Fire OS** (Android-based) and Android devices running **Android 10.0 or newer**.
+SignPresenter works on Fire Sticks running **Fire OS** (Android-based) and Android devices running **Android 11.0 or newer**.
 
 **Recommended:** [Fire TV Stick HD](https://www.amazon.com/dp/B0CQMRKRV5) — best for 24/7 signage thanks to auto-reboot after power loss.
 

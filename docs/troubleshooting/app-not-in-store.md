@@ -21,7 +21,7 @@ SignPresenter works on **Amazon Fire Sticks** and **Fire TVs** running **Fire OS
 
 ### Android devices
 
-SignPresenter supports Android devices running **Android 10.0 or newer**. [Download from the Google Play Store](https://play.google.com/store/apps/details?id=com.signpresenter.screen&hl=en_US).
+SignPresenter supports Android devices running **Android 11.0 or newer**. [Download from the Google Play Store](https://play.google.com/store/apps/details?id=com.signpresenter.screen&hl=en_US).
 
 Budget-friendly Android options:
 
