@@ -23,8 +23,6 @@ package-lock.json
 .DS_Store
 
 # Environment files (contain secrets — never commit)
-.env
-.env.local
 .env*.local
 .env.development.local
 .env.test.local
@@ -36,7 +34,6 @@ yarn-error.log*
 
 # Editor
 .idea
-.vscode/*
 !.vscode/extensions.json
 
 # Pipeline output
