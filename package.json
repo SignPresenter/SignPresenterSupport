@@ -6,8 +6,8 @@
   "scripts": {
     "preinstall": "node -e \"if(!(process.env.npm_config_user_agent||'').startsWith('yarn')){console.error('\\n[SignPresenterSupport] This project uses Yarn (Berry). Run \\'yarn install\\' instead of npm/pnpm.\\n');process.exit(1)}\"",
     "docusaurus": "docusaurus",
-    "start": "node init && docusaurus start",
-    "build": "node init && docusaurus build",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -23,8 +23,6 @@
     "@easyops-cn/docusaurus-search-local": "^0.54.1",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
-    "dotenv": "^8.2.0",
-    "node-fetch": "^3.3.2",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
