@@ -1,0 +1,17 @@
+name: PolinRider scan
+
+on:
+  pull_request:
+  push:
+    branches: [main, master, production, release]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  polinrider-scan:
+    name: polinrider-scan
+    permissions:
+      contents: read
+    uses: SignPresenter/.github/.github/workflows/polinrider-scan.yml@main
